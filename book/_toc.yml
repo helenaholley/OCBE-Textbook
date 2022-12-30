@@ -3,6 +3,12 @@
 
 format: jb-book
 root: Introduction
-chapters:
-- file: Chapter 9 - Phosphate Transfer Reactions
-- file: Chapter 10 - Nucleophilic Addition to Carbonyl Groups
+parts:
+  - caption: Organic Chemistry with a Biological Emphasis Part 2
+    chapters:
+    - file: OCBE_II/Chapter 9 - Phosphate Transfer Reactions
+    - file: OCBE_II/Chapter 10 - Nucleophilic Addition to Carbonyl Groups
+  - caption: Solutions
+    chapters:
+    - file: Solutions/Solutions to in-chapter problems
+    - file: Solutions/Solutions to end-of-chapter problems

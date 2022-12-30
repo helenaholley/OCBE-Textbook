@@ -29,8 +29,8 @@ repository:
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: true
-  # use_repository_button: true
-  # use_edit_page_button: true # This still requires a fork and pull request of the repository.
+  use_repository_button: true
+  use_edit_page_button: true # This still requires a fork and pull request of the repository.
   
 parse:
   myst_enable_extensions:
