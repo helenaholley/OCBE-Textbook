@@ -11,7 +11,7 @@
 This chapter is about the chemistry of phosphates, a ubiquitous
 functional group in biomolecules that is based on phosphoric acid:
 
-<img src="media/image3.emf" style="width:0.96319in;height:0.93542in" />
+<img src="media/image3.png" style="width:0.96319in;height:0.93542in" />
 
 fig 1d
 
@@ -166,7 +166,7 @@ the validity of the arsenic bacteria claim.
 Phosphate is everywhere in biochemistry. As we were reminded in the
 introduction to this chapter, our DNA is linked by phosphate:
 
-<img src="media/image4.emf" style="width:2.60208in;height:2.72222in" />
+<img src="media/image4.png" style="width:2.60208in;height:2.72222in" />
 
 fig 1a
 
@@ -174,7 +174,7 @@ The function of many proteins is regulated - switched on and off - by
 enzymes which attach or remove a phosphate group from the side chains of
 serine, threonine, or tyrosine residues.
 
-<img src="media/image5.emf" style="width:5.26875in;height:2in" />
+<img src="media/image5.png" style="width:5.26875in;height:2in" />
 
 fig 1b
 
@@ -201,7 +201,7 @@ the linkage itself is referred to as a **'phosphate anhydride'**, and
 the compound is called **'inorganic pyrophosphate'** (often abbreviated
 PP*<sub>i</sub>*).
 
-<img src="media/image6.emf" style="width:4.72222in;height:1.40764in" />
+<img src="media/image6.png" style="width:4.72222in;height:1.40764in" />
 
 fig 1
 
@@ -209,14 +209,14 @@ The chemical linkage between phosphate and a carbon atom is a
 **phosphate ester**. Adenosine monophosphate (AMP) has a single
 phosphate ester linkage.
 
-<img src="media/image7.emf" style="width:2.32431in;height:1.93542in" />
+<img src="media/image7.png" style="width:2.32431in;height:1.93542in" />
 
 fig 2
 
 Adenosine triphosphate has one phosphate ester linkage and two phosphate
 anhydride linkages.
 
-<img src="media/image8.emf" style="width:3.21319in;height:1.88889in" />
+<img src="media/image8.png" style="width:3.21319in;height:1.88889in" />
 
 fig 3
 
@@ -226,7 +226,7 @@ organic diphosphate has two bridging oxygens (one in the phosphate ester
 linkage and one in the phosphate anhydride linkage) and five
 non-bridging oxygens:
 
-<img src="media/image9.emf" style="width:3.21319in;height:0.69444in" />
+<img src="media/image9.png" style="width:3.21319in;height:0.69444in" />
 
 fig 4
 
@@ -234,7 +234,7 @@ A single phosphate is linked to *two* organic groups is called
 **phosphate diester**. The backbone of DNA is linked by phosphate
 diesters.
 
-<img src="media/image10.emf" style="width:3.12986in;height:2.27778in" />
+<img src="media/image10.png" style="width:3.12986in;height:2.27778in" />
 
 fig 5
 
@@ -244,14 +244,14 @@ isopentenyl diphosphate are often depicted as shown below. Notice that
 the '*P*' abbreviation includes the associated oxygen atoms and negative
 charges.
 
-<img src="media/image11.emf" style="width:4.63889in;height:3in" />
+<img src="media/image11.png" style="width:4.63889in;height:3in" />
 
 fig 6
 
 <u>Exercise 9.1</u>: Consider the biological compounds below, some of
 which are shown with abbreviated structures:
 
-<img src="media/image12.emf" style="width:6in;height:4.59633in" />
+<img src="media/image12.png" style="width:6in;height:4.59633in" />
 
 fig 4a
 
@@ -277,7 +277,7 @@ Phosphoric acid is triprotic, meaning that it has three acidic protons
 available to donate, with pK<sub>a</sub> values of 1.0, 6.5, and 13.0,
 respectively. (da Silva and Williams)
 
-<img src="media/image13.emf" style="width:4.19444in;height:1.29653in" />
+<img src="media/image13.png" style="width:4.19444in;height:1.29653in" />
 
 fig 7
 
@@ -291,7 +291,7 @@ meaning that the average net charge is between -1.5 and -2.0.
 Phosphate diesters have a pKa of about 1, meaning that they carry a full
 negative charge at physiological pH.
 
-<img src="media/image14.emf" style="width:2.94444in;height:1.19444in" />
+<img src="media/image14.png" style="width:2.94444in;height:1.19444in" />
 
 fig 7a
 
@@ -323,7 +323,7 @@ located just above it in the same column. Indeed, **phosphines** -
 phosphorus analogs of amines - are commonly used in the organic
 laboratory.
 
-<img src="media/image15.emf" style="width:2.46319in;height:0.75in" />
+<img src="media/image15.png" style="width:2.46319in;height:0.75in" />
 
 fig 8
 
@@ -335,7 +335,7 @@ central phosphorus atom with *tetrahedral geometry*, however there are a
 total of *five* bonds to phosphorus - four σ bonds and one delocalized π
 bond.
 
-<img src="media/image16.emf" style="width:4.58333in;height:1.75in" />
+<img src="media/image16.png" style="width:4.58333in;height:1.75in" />
 
 fig 9
 
@@ -351,7 +351,7 @@ nitrogen in an amine group: a single 2*s* and three 2*p* orbitals
 combine to form four *sp<sup>3</sup>* hybrid orbitals, three of which
 form σ bonds and one of which holds a lone pair of electrons.
 
-<img src="media/image17.emf" style="width:4.75in;height:2.30556in" />
+<img src="media/image17.png" style="width:4.75in;height:2.30556in" />
 
 fig 10
 
@@ -361,7 +361,7 @@ with tetrahedral geometry. In contrast to an amine, however, four of the
 five valance electrons on phosphorus occupy *sp<sup>3</sup>* orbitals,
 and the fifth occupies an unhybridized 3*d* orbital.
 
-<img src="media/image18.emf" style="width:5.77778in;height:2.11111in" />
+<img src="media/image18.png" style="width:5.77778in;height:2.11111in" />
 
 fig 11
 
@@ -382,7 +382,7 @@ figure below), there is an additional separation of charge - thus these
 contributors are minor and make a relatively unimportant contribution to
 the overall bonding picture.
 
-<img src="media/image19.emf" style="width:4.63889in;height:2.15764in" />
+<img src="media/image19.png" style="width:4.63889in;height:2.15764in" />
 
 fig 12
 
@@ -407,7 +407,7 @@ In a phosphate transfer reaction, a phosphate group is transferred from
 a **phosphate group donor** molecule to a **phosphate group acceptor**
 molecule:
 
-<img src="media/image20.emf" style="width:5.04653in;height:1.11111in" />
+<img src="media/image20.png" style="width:5.04653in;height:1.11111in" />
 
 fig 13
 
@@ -420,7 +420,7 @@ non-bridging phosphate oxygens on the substrate. The magnesium ion pulls
 electron density *away* from the phosphorus atom, making it more
 electrophilic.
 
-<img src="media/image21.emf" style="width:4.40764in;height:1.49097in" />
+<img src="media/image21.png" style="width:4.40764in;height:1.49097in" />
 
 fig 17
 
@@ -445,7 +445,7 @@ backside, opposite the leaving group:
 
 **Concerted model:**
 
-<img src="media/image22.emf" style="width:5.72222in;height:4.80556in" />
+<img src="media/image22.png" style="width:5.72222in;height:4.80556in" />
 
 fig 17a
 
@@ -463,7 +463,7 @@ not equivalent: the three non-bridging oxygens are said to be
 nucleophile and the leaving group are said to be **apical** (occupying
 the tips of the two pyramids).
 
-<img src="media/image23.emf" style="width:4.60208in;height:2.01875in" />
+<img src="media/image23.png" style="width:4.60208in;height:2.01875in" />
 
 fig 17b
 
@@ -474,7 +474,7 @@ of researchers was able to synthesize organic phosphate esters in which
 stable oxygen isotopes <sup>17</sup>O and <sup>18</sup>O were
 specifically incorporated. This created a chiral phosphate center.
 
-<img src="media/image24.emf" style="width:4.63889in;height:1.57431in" />
+<img src="media/image24.png" style="width:4.63889in;height:1.57431in" />
 
 fig 17c
 
@@ -497,7 +497,7 @@ energy *valley* between the two transition states.
 
 **Addition-elimination model:**
 
-<img src="media/image25.emf" style="width:4.86111in;height:3.96319in" />
+<img src="media/image25.png" style="width:4.86111in;height:3.96319in" />
 
 fig 17e
 
@@ -514,7 +514,7 @@ Phosphorus pentachloride, after all, is a stable compound that has five
 bonds to chlorine arranged in trigonal bipyramidal geometry around the
 central phosphorus.
 
-<img src="media/image26.emf" style="width:0.75in;height:0.75in" />
+<img src="media/image26.png" style="width:0.75in;height:0.75in" />
 
 fig 17f
 
@@ -522,7 +522,7 @@ The phosphorus atom in PCl<sub>5</sub> (and in the hypothetical
 pentavalent intermediate pictured above) is considered to be
 **sp<sup>3</sup>d** **hybridized**:
 
-<img src="media/image27.emf" style="width:4.94444in;height:1.11111in" />
+<img src="media/image27.png" style="width:4.94444in;height:1.11111in" />
 
 fig 17g
 
@@ -536,7 +536,7 @@ nucleophile to form the reaction product.
 
 **Elimination-addition model:**
 
-<img src="media/image28.emf" style="width:4.63889in;height:4.02778in" />
+<img src="media/image28.png" style="width:4.63889in;height:4.02778in" />
 
 fig 5
 
@@ -579,7 +579,7 @@ species. It's time to get more specific. The most important donor of
 phosphate groups in the cell is a molecule called **adenosine
 triphosphate**, commonly known by its abbreviation **ATP**.
 
-<img src="media/image29.emf" style="width:4.05556in;height:2.30556in" />
+<img src="media/image29.png" style="width:4.05556in;height:2.30556in" />
 
 fig 21
 
@@ -598,7 +598,7 @@ biochemical literature, depending on what is being illustrated. For
 example, the three structures below are all abbreviated depictions of
 ATP:
 
-<img src="media/image30.emf" style="width:4.22222in;height:1.61111in" />
+<img src="media/image30.png" style="width:4.22222in;height:1.61111in" />
 
 fig 22
 
@@ -612,17 +612,17 @@ are used. Arrange A-S into groups of drawings that depict the same
 species (for example, group together all of the abbreviations which
 depict ATP).
 
-<img src="media/image31.emf" style="width:4.09236in;height:1in" />
+<img src="media/image31.png" style="width:4.09236in;height:1in" />
 
-<img src="media/image32.emf" style="width:5.47222in;height:1.77778in" />
+<img src="media/image32.png" style="width:5.47222in;height:1.77778in" />
 
-<img src="media/image33.emf" style="width:5.66667in;height:1.07431in" />
+<img src="media/image33.png" style="width:5.66667in;height:1.07431in" />
 
-<img src="media/image34.emf" style="width:5.58333in;height:1.55556in" />
+<img src="media/image34.png" style="width:5.58333in;height:1.55556in" />
 
-<img src="media/image35.emf" style="width:4.88889in;height:1.71319in" />
+<img src="media/image35.png" style="width:4.88889in;height:1.71319in" />
 
-<img src="media/image36.emf" style="width:5.15764in;height:1.08333in" />
+<img src="media/image36.png" style="width:5.15764in;height:1.08333in" />
 
 You are probably familiar with the physiological role of ATP from your
 biology classes - it is commonly called 'the energy currency of the
@@ -630,7 +630,7 @@ cell'. What this means is that ATP stores energy we get from the
 oxidation of fuel molecules such as carbohydrates or fats. The energy in
 ATP is stored in the two high-energy phosphate anhydride linkages.
 
-<img src="media/image37.emf" style="width:2.40764in;height:1.27778in" />
+<img src="media/image37.png" style="width:2.40764in;height:1.27778in" />
 
 fig 23
 
@@ -641,7 +641,7 @@ separated, eliminating some of electrostatic repulsion that existed in
 ATP. One way to picture this is as a coil springing open, releasing
 potential energy.
 
-<img src="media/image38.emf" style="width:3.69444in;height:3.58333in" />
+<img src="media/image38.png" style="width:3.69444in;height:3.58333in" />
 
 fig 24
 
@@ -669,15 +669,15 @@ each of these in the coming sections.
 
 Attack at the γ-phosphate:
 
-<img src="media/image39.emf" style="width:3.80556in;height:2.68542in" />
+<img src="media/image39.png" style="width:3.80556in;height:2.68542in" />
 
 Attack at the β-phosphate:
 
-<img src="media/image40.emf" style="width:3.80556in;height:2.62986in" />
+<img src="media/image40.png" style="width:3.80556in;height:2.62986in" />
 
 Attack at the α-phosphate:
 
-<img src="media/image41.emf" style="width:4.19444in;height:2.75in" />
+<img src="media/image41.png" style="width:4.19444in;height:2.75in" />
 
 fig 24c
 
@@ -698,7 +698,7 @@ above, in which inorganic phosphate (P*i)* is a by-product.
 reaction less energetically favorable compared to all of the possible
 ATP-cleaving reactions shown in the figure above?
 
-<img src="media/image42.emf" style="width:5.66667in;height:0.77778in" />
+<img src="media/image42.png" style="width:5.66667in;height:0.77778in" />
 
 fig 24d
 
@@ -717,7 +717,7 @@ the enzyme hexose kinase (EC 2.7.1.1), forming glucose-6-phosphate.
 
 Hexose kinase mechanism
 
-<img src="media/image43.emf" style="width:5.35208in;height:5.88889in" />
+<img src="media/image43.png" style="width:5.35208in;height:5.88889in" />
 
 [video tutorial](https://www.youtube.com/watch?v=K9C5OOwJN_M)
 
@@ -729,7 +729,7 @@ and ADP is one of the products. From here on, we will frequently use
 this common convention to indicate reaction participants whose
 structures are not drawn out in a figure.
 
-<img src="media/image44.emf" style="width:5.43333in;height:1.71111in" />
+<img src="media/image44.png" style="width:5.43333in;height:1.71111in" />
 
 fig 26b
 
@@ -738,7 +738,7 @@ kinases**. In a protein kinase reaction, the side chain hydroxyl groups
 on serine, threonine, or tyrosine residues of certain proteins are
 phosphorylated by ATP:
 
-<img src="media/image45.emf" style="width:3.51111in;height:1.28889in" />
+<img src="media/image45.png" style="width:3.51111in;height:1.28889in" />
 
 fig 27
 
@@ -770,7 +770,7 @@ synthesized ATP in which three different isotopes of oxygen were
 incorporated into the γ−phosphate, thus creating a chiral phosphorus
 center. *(Ann. Rev. Biochem*. **1980** *49*, 877).
 
-<img src="media/image46.emf" style="width:5.72222in;height:1.32431in" />
+<img src="media/image46.png" style="width:5.72222in;height:1.32431in" />
 
 fig 27a
 
@@ -782,7 +782,7 @@ mevalonate is diphosphorylated in this way in the early phase of the
 biosynthetic pathway for cholesterol, steroid hormones, and other
 isoprenoid molecules.
 
-<img src="media/image47.emf" style="width:4.81111in;height:2.87778in" />
+<img src="media/image47.png" style="width:4.81111in;height:2.87778in" />
 
 fig 28
 
@@ -792,7 +792,7 @@ phosphate transfer step, catalyzed by a separate enzyme, one of the
 phosphate oxygens on the organic monophosphate acts as a nucleophilic
 phosphate acceptor, attacking the γ-phosphate of a second ATP.
 
-<img src="media/image48.emf" style="width:4.80556in;height:3.05556in" />
+<img src="media/image48.png" style="width:4.80556in;height:3.05556in" />
 
 fig 29a
 
@@ -811,11 +811,11 @@ one-step mechanism:
 
 A one-step alcohol diphosphorylation reaction (PRPP synthase):
 
-<img src="media/image49.emf" style="width:4.16667in;height:1.26667in" />
+<img src="media/image49.png" style="width:4.16667in;height:1.26667in" />
 
 Mechanism:
 
-<img src="media/image50.emf" style="width:4.21319in;height:3.55556in" />
+<img src="media/image50.png" style="width:4.21319in;height:3.55556in" />
 
 fig 31, 31b
 
@@ -839,7 +839,7 @@ carboxylate can attack the γ-phosphate of ATP to accept phosphate,
 generates a species known as an 'acyl phosphate'. An example is the
 first part of the reaction catalyzed by glutamine synthase (EC 6.3.1.2):
 
-<img src="media/image51.emf" style="width:4.46319in;height:1.15764in" />
+<img src="media/image51.png" style="width:4.46319in;height:1.15764in" />
 
 Alternatively, carboxylate groups are often converted into a species
 referred to as an 'acyl-AMP' . Here, the carboxylate oxygen attacks the
@@ -847,7 +847,7 @@ referred to as an 'acyl-AMP' . Here, the carboxylate oxygen attacks the
 example is the first part of the reaction catalyzed by the enzyme
 asparagine synthetase: (EC 6.3.5.4):
 
-<img src="media/image52.emf" style="width:4.57431in;height:3.37986in" />
+<img src="media/image52.png" style="width:4.57431in;height:3.37986in" />
 
 fig 35
 
@@ -857,7 +857,7 @@ pathway. Note that ADP is on the reactant side and ATP is a product (the
 opposite of what we have seen so far). Hint: What functional group is
 the nucleophile? What functional group is the leaving group?
 
-<img src="media/image53.emf" style="width:3.44444in;height:1.15764in" />
+<img src="media/image53.png" style="width:3.44444in;height:1.15764in" />
 
 fig 36
 
@@ -879,7 +879,7 @@ not involve 'spending' energy currency the way kinase reactions do.
 
 Phosphatase reaction:
 
-<img src="media/image54.emf" style="width:4.16667in;height:0.75in" />
+<img src="media/image54.png" style="width:4.16667in;height:0.75in" />
 
 fig 37
 
@@ -890,7 +890,7 @@ phosphate center:
 
 Phosphatase mechanism (direct hydrolysis):
 
-<img src="media/image55.emf" style="width:4.08333in;height:1in" />
+<img src="media/image55.png" style="width:4.08333in;height:1in" />
 
 fig 37
 
@@ -898,7 +898,7 @@ One of the two phosphate groups on fructose 1,6-bisphosphate is
 hydrolyzed in such a way late in the gluconeogenesis pathway.
 (*Biochemistry* **2000**, *39*, 8565; EC 3.1.3.11)
 
-<img src="media/image56.emf" style="width:5.69444in;height:1.30556in" />
+<img src="media/image56.png" style="width:5.69444in;height:1.30556in" />
 
 fig 37b
 
@@ -920,11 +920,11 @@ Indirect phosphatase reaction:
 
 Step 1:
 
-<img src="media/image57.emf" style="width:6in;height:1.43481in" />
+<img src="media/image57.png" style="width:6in;height:1.43481in" />
 
 Step 2:
 
-<img src="media/image58.emf" style="width:5.21319in;height:1.07431in" />
+<img src="media/image58.png" style="width:5.21319in;height:1.07431in" />
 
 fig 38d
 
@@ -956,7 +956,7 @@ frequently in the coming discussion. The 'prime' symbol (') is used to
 distinguish the ribose carbon numbers from the nucleotide base carbon
 numbers (which are not shown here).
 
-<img src="media/image59.emf" style="width:3.12986in;height:2.27778in" />
+<img src="media/image59.png" style="width:3.12986in;height:2.27778in" />
 
 fig 5
 
@@ -976,7 +976,7 @@ large part to the negative charge on the non-bridging oxygen of the
 phosphate diester linker, which effectively repels nucleophilic water
 molecules and shields the electrophilic phosphorus atom from attack.
 
-<img src="media/image60.emf" style="width:2.46319in;height:1.5in" />
+<img src="media/image60.png" style="width:2.46319in;height:1.5in" />
 
 fig 40
 
@@ -1000,7 +1000,7 @@ phosphorus atom, poised in a good position to make a nucleophilic
 attack, breaking the RNA chain and forming a cyclic phosphate diester
 intermediate (see figure below).
 
-<img src="media/image61.emf" style="width:5in;height:2.12986in" />
+<img src="media/image61.png" style="width:5in;height:2.12986in" />
 
 fig 41
 
@@ -1049,7 +1049,7 @@ pyrophosphate.
 
 DNA polymerase reaction:
 
-<img src="media/image62.emf" style="width:5.55556in;height:2.57431in" />
+<img src="media/image62.png" style="width:5.55556in;height:2.57431in" />
 
 fig 42
 
@@ -1059,7 +1059,7 @@ hydrolysis at specific base sequences.
 
 DNA hydrolysis by restriction endonucleases:
 
-<img src="media/image63.emf" style="width:4.83333in;height:2.94444in" />
+<img src="media/image63.png" style="width:4.83333in;height:2.94444in" />
 
 fig 43
 
@@ -1070,7 +1070,7 @@ segment with a phosphate group at the 5' position.
 A commonly used restriction endonuclease called 'BamHI' cleaves
 double-stranded DNA specifically at the following 6-base sequence:
 
-<img src="media/image64.emf" style="width:2.60208in;height:2.36111in" />
+<img src="media/image64.png" style="width:2.60208in;height:2.36111in" />
 
 fig 43
 
@@ -1083,7 +1083,7 @@ catalyzes the formation of a new 3'-5' link between two strands:
 
 DNA ligase reaction:
 
-<img src="media/image65.emf" style="width:5.80556in;height:3.13889in" />
+<img src="media/image65.png" style="width:5.80556in;height:3.13889in" />
 
 fig 45a
 
@@ -1097,11 +1097,11 @@ DNA ligation
 
 Phase 1: activation
 
-<img src="media/image66.emf" style="width:5.26875in;height:1.75in" />
+<img src="media/image66.png" style="width:5.26875in;height:1.75in" />
 
 Phase 2: ligation:
 
-<img src="media/image67.emf" style="width:5.80556in;height:3.24097in" />
+<img src="media/image67.png" style="width:5.80556in;height:3.24097in" />
 
 One more enzymatic tool in the genetic engineering arsenal bears
 mention. In some cloning procedures, a researcher may want to prevent
@@ -1113,7 +1113,7 @@ dephosphorylation of many different organic phosphates, including
 
 Alkaline phosphatase reaction:
 
-<img src="media/image68.emf" style="width:5.33333in;height:1.93542in" />
+<img src="media/image68.png" style="width:5.33333in;height:1.93542in" />
 
 fig 46
 
@@ -1143,7 +1143,7 @@ ammonium hydroxide, NH<sub>4</sub>OH) (*J. Org. Chem*. **1986**, *51*,
 protons with lower case letters, and phosphorus atoms with upper case
 letters.
 
-<img src="media/image69.emf" style="width:2.97222in;height:1.50903in" />
+<img src="media/image69.png" style="width:2.97222in;height:1.50903in" />
 
 First, let's look at the proton spectrum:
 
@@ -1158,7 +1158,7 @@ H<sub>c</sub>: 4.86 ppm (s)
 
 H<sub>d</sub>: 1.77 ppm (s)
 
-<img src="media/image70.emf" style="width:3.55556in;height:1.30556in" />
+<img src="media/image70.png" style="width:3.55556in;height:1.30556in" />
 
 The signals for H<sub>b</sub>, H<sub>c</sub>, and H<sub>d</sub> look
 like we would expect from our discussion in chapter 5, with the
@@ -1195,7 +1195,7 @@ Now, let's look at the <sup>13</sup>C spectrum of IPP:
 
 **C<sub>5</sub>**: 24.5 ppm
 
-<img src="media/image71.emf" style="width:2.66667in;height:1.13889in" />
+<img src="media/image71.png" style="width:2.66667in;height:1.13889in" />
 
 Notice that **the signals for both C<sub>1</sub> and C<sub>2</sub> are
 split into doublets by the magnetic field of P<sub>A</sub>**. Phosphorus
@@ -1228,7 +1228,7 @@ standard (negative chemical shifts!) and split into a doublet
 (<sup>2</sup>J<sub>P-P</sub> = 20 Hz) due to 2-bond coupling between the
 two phosphorus nuclei.
 
-<img src="media/image72.emf" style="width:2.33333in;height:0.84236in" />
+<img src="media/image72.png" style="width:2.33333in;height:0.84236in" />
 
 fig 13
 
@@ -1343,13 +1343,13 @@ Stereochemistry of the product is not indicated in the figure below - in
 your mechanism, show the stereochemistry of the product, and explain how
 you are able to predict it from your knowledge of kinase reactions.
 
-<img src="media/image73.emf" style="width:4.18542in;height:1.19444in" />
+<img src="media/image73.png" style="width:4.18542in;height:1.19444in" />
 
 **P9.2:** Draw a likely mechanism for the following reaction (EC
 2.7.2.3) in the gluconeogenesis pathway, and predict what compound is
 indicated by the question mark.
 
-<img src="media/image74.emf" style="width:3.47222in;height:0.85208in" />
+<img src="media/image74.png" style="width:3.47222in;height:0.85208in" />
 
 **P9.3:**
 
@@ -1357,12 +1357,12 @@ a\) Draw a likely mechanism for the following reaction (EC 6.3.4.2) from
 ribonucleotide biosynthesis. Hint: what is the nucleophilic group? How
 could the enzyme increase it's nucleophilicity?
 
-<img src="media/image75.emf" style="width:4.05556in;height:1.83333in" />
+<img src="media/image75.png" style="width:4.05556in;height:1.83333in" />
 
 b\) Draw a mechanism for the following reaction, also from
 ribonucleotide biosynthesis (EC 6.3.3.1):
 
-<img src="media/image76.emf" style="width:3.94444in;height:1.33333in" />
+<img src="media/image76.png" style="width:3.94444in;height:1.33333in" />
 
 **P9.4:**
 
@@ -1371,14 +1371,14 @@ early step in the biosynthesis of the antibiotic penicillin. Predict the
 product of this reaction, and draw the likely intermediate of the
 phosphate group transfer reaction.
 
-<img src="media/image77.emf" style="width:1.87986in;height:1.05556in" />
+<img src="media/image77.png" style="width:1.87986in;height:1.05556in" />
 
 **P9.5:** The reaction below is an early step in the synthesis of
 tyvelose, a sugar found on the surface of some pathogenic bacteria.
 Notice that CTP plays the role of the phosphate group donor in this
 case, rather than ATP.
 
-<img src="media/image78.emf" style="width:4.05556in;height:1.02778in" />
+<img src="media/image78.png" style="width:4.05556in;height:1.02778in" />
 
 Draw a mechanism for the reaction, and indicate the second product that
 is released by the enzyme. (*J. Biol. Chem*. **2005**, *280*, 10774)
@@ -1389,16 +1389,16 @@ is the electrophile in each case.
 
 a\)
 
-<img src="media/image79.emf" style="width:1.46319in;height:0.58333in" />
+<img src="media/image79.png" style="width:1.46319in;height:0.58333in" />
 
 b\)
 
-<img src="media/image80.emf" style="width:1.47222in;height:0.58333in" />
+<img src="media/image80.png" style="width:1.47222in;height:0.58333in" />
 
 **P9.7:** The figure below illustrates an experiment in which a reaction
 catalyzed by an *E. coli* enzyme was run in isotopically labeled water.
 
-<img src="media/image81.emf" style="width:4.10208in;height:1.02778in" />
+<img src="media/image81.png" style="width:4.10208in;height:1.02778in" />
 
 a\) The researchers concluded that the reaction was *not* a phosphate
 group transfer. Explain their reasoning.
@@ -1416,7 +1416,7 @@ of the <sup>18</sup>O 'label' throughout each mechanism to see where it
 ends up: this should indicate to you how the two mechanisms could be
 (and in fact were!) distinguished experimentally.
 
-<img src="media/image82.emf" style="width:3.24097in;height:1.08333in" />
+<img src="media/image82.png" style="width:3.24097in;height:1.08333in" />
 
 **P9.9:** Glucose-6-phosphate is dephosphorylated to glucose in the last
 step of the gluconeogenesis pathway (EC 5.3.1.9). The reaction is not a
@@ -1443,7 +1443,7 @@ knowledge that the atoms in green are derived from ATP, predict the
 structures of compounds A, B and C. (EC 2.7.7.60, EC 2.7.1.148, EC
 4.6.1.12)
 
-<img src="media/image83.emf" style="width:5.38889in;height:1.12986in" />
+<img src="media/image83.png" style="width:5.38889in;height:1.12986in" />
 
 **P9.12**: The reaction below shows the synthesis of glucose-UDP, an
 important intermediate in carbohydrate biosynthesis. Notice that UTP
@@ -1452,7 +1452,7 @@ below by a question mark.
 
 *Molecules and Cells* **2010**, *29*, 397; E.C. 2.7.7.9
 
-<img src="media/image84.emf" style="width:4.44444in;height:1.05556in" />
+<img src="media/image84.png" style="width:4.44444in;height:1.05556in" />
 
 **P9.13:** Isomerization of 3-phosphoglycerate to 2-phosphoglycerate (EC
 5.4.2.1, a reaction in glycolysis) has been shown to occur with the
@@ -1461,7 +1461,7 @@ The two phosphate groups are distinguished in the figure below by color.
 With this information, propose a mechanism for the reaction. (*J. Mol.
 Bio*l. **1999**, *286*, 1507
 
-<img src="media/image85.emf" style="width:4.43542in;height:2.62986in" />
+<img src="media/image85.png" style="width:4.43542in;height:2.62986in" />
 
 **P9.14**: The gluconeogenesis (sugar-building) pathway enzyme
 glucose-6-phosphatase catalyzes an *indirect* phosphate hydrolysis
@@ -1469,7 +1469,7 @@ reaction with a phosphohistidine intermediate ('indirect hydrolysis' in
 this context means that a water molecule does *not* directly attack
 glucose-6-phosphate).
 
-<img src="media/image86.emf" style="width:4.52778in;height:1.12986in" />
+<img src="media/image86.png" style="width:4.52778in;height:1.12986in" />
 
 Researchers wanted to confirm that the hydrolysis in this reaction is
 indirect, rather than direct. It turns out that the same enzyme is also

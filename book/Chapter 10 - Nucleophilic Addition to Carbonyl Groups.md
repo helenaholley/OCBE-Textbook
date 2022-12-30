@@ -56,14 +56,14 @@ molecules. Enzymes called 'amylases' are used to break up the starch
 polymer into individual glucose molecules (as well as two-glucose units
 called cellobiose), which are then fermented by the yeast.
 
-<img src="media/image88.emf" style="width:2.65764in;height:2.65764in" />
+<img src="media/image88.png" style="width:2.65764in;height:2.65764in" />
 
 fig1b
 
 The rest of the corn plant – the stalks, leaves, and cobs – is composed
 in large part of another glucose polymer called cellulose.
 
-<img src="media/image89.emf" style="width:3.58333in;height:1.58333in" />
+<img src="media/image89.png" style="width:3.58333in;height:1.58333in" />
 
 fig 1c
 
@@ -136,7 +136,7 @@ Recall from chapter 1 that the ketone functional group is made up of a
 carbonyl bonded to two carbons, while in an aldehyde one (or both) of
 the neighboring atoms is a hydrogen.
 
-<img src="media/image90.emf" style="width:1.51875in;height:0.85208in" />
+<img src="media/image90.png" style="width:1.51875in;height:0.85208in" />
 
 fig1d
 
@@ -149,7 +149,7 @@ unlucky frog that you dissected in high school biology class. The male
 sex hormone testosterone contains a ketone group in addition to alcohol
 and alkene groups.
 
-<img src="media/image91.emf" style="width:6in;height:1.68542in" />
+<img src="media/image91.png" style="width:6in;height:1.68542in" />
 
 fig 1e
 
@@ -163,7 +163,7 @@ unhybridized *2p* orbital is perpendicular to the plane formed by the
 oxygen combine to make the C=O double bond that defines the carbonyl
 functionality.
 
-<img src="media/image92.emf" style="width:5.16667in;height:1.10208in" />
+<img src="media/image92.png" style="width:5.16667in;height:1.10208in" />
 
 fig 1
 
@@ -176,7 +176,7 @@ with a dipole arrow (A in the figure below), or by showing the oxygen as
 bearing a partial negative charge and the carbonyl carbon a partial
 positive charge (B).
 
-<img src="media/image93.emf" style="width:3.60208in;height:1.26875in" />
+<img src="media/image93.png" style="width:3.60208in;height:1.26875in" />
 
 fig 2
 
@@ -197,7 +197,7 @@ attack by an electron-rich nucleophilic group, a mechanistic step called
 
 Nucleophilic addition to an aldehyde or ketone (enzymatic)
 
-<img src="media/image94.emf" style="width:5.13889in;height:2.57431in" />
+<img src="media/image94.png" style="width:5.13889in;height:2.57431in" />
 
 fig 3
 
@@ -225,7 +225,7 @@ equivalent, then a chiral center is created upon addition of the
 nucleophile. The configuration of the new chiral center depends upon
 which side of the carbonyl plane the nucleophile attacks from.
 
-<img src="media/image95.emf" style="width:6in;height:1.98205in" />
+<img src="media/image95.png" style="width:6in;height:1.98205in" />
 
 fig 4
 
@@ -250,7 +250,7 @@ addition of an alcohol to a ketone or aldehyde. When an alcohol adds to
 an aldehyde, the result is called a **hemiacetal**; when an alcohol adds
 to a ketone the resulting product is a **hemiketal**.
 
-<img src="media/image96.emf" style="width:3.38889in;height:2.58333in" />
+<img src="media/image96.png" style="width:3.38889in;height:2.58333in" />
 
 fig 5
 
@@ -264,7 +264,7 @@ the process at physiological pH is shown below.
 
 Biochemical mechanism of hemiacetal formation:
 
-<img src="media/image97.emf" style="width:4.02778in;height:1.52778in" />
+<img src="media/image97.png" style="width:4.02778in;height:1.52778in" />
 
 fig 6
 
@@ -279,7 +279,7 @@ Aldehydes and ketones, when in aqueous solution, exist in equilibrium
 with their **hydrate** form. A hydrate forms as the result of a water
 molecule adding to the carbonyl carbon of the aldehyde or ketone.
 
-<img src="media/image98.emf" style="width:3.80556in;height:0.94444in" />
+<img src="media/image98.png" style="width:3.80556in;height:0.94444in" />
 
 fig 6a
 
@@ -299,7 +299,7 @@ corresponding biochemical mechanisms occurring at physiological pH.
 
 Acid-catalyzed hemiacetal formation (non-biological):
 
-<img src="media/image99.emf" style="width:5.65764in;height:1.55556in" />
+<img src="media/image99.png" style="width:5.65764in;height:1.55556in" />
 
 fig 6b
 
@@ -313,7 +313,7 @@ multiple alcohol groups. Aldehyde sugars are often referred to as
 aldose, and fructose is a ketose - their structures are drawn below in
 Fischer projection:
 
-<img src="media/image100.emf" style="width:2.25in;height:1.94444in" />
+<img src="media/image100.png" style="width:2.25in;height:1.94444in" />
 
 fig 8
 
@@ -328,7 +328,7 @@ straight-chain and cyclic forms. This occurs through the formation of
 'R' group of the alcohol is already covalently attached to the 'R 'group
 of the aldehyde (R<sub>1</sub> in our general mechanism).
 
-<img src="media/image101.emf"
+<img src="media/image101.png"
 style="width:2.57431in;height:1.43542in" />
 
 fig 9a
@@ -343,7 +343,7 @@ intramolecular hemiacetal formed by attack of the hydroxl on carbon \#5
 to the aldehyde carbon (carbon \#1, also called the **anomeric carbon**
 in carbohydrate terminology).
 
-<img src="media/image102.emf"
+<img src="media/image102.png"
 style="width:5.12986in;height:4.80556in" />
 
 fig 9
@@ -369,7 +369,7 @@ position, but in the minor α anomer one hydroxyl group is forced into
 the axial position. As a result, the α anomer is higher in energy, and
 less abundant at equilibrium.
 
-<img src="media/image103.emf" style="width:6in;height:1.22268in" />
+<img src="media/image103.png" style="width:6in;height:1.22268in" />
 
 fig 10
 
@@ -380,7 +380,7 @@ Fructose in aqueous solution forms a six-membered cyclic hemiketal
 called **fructopyranose** when the hydroxyl oxygen on carbon \#6 attacks
 the ketone carbon (carbon \#2, the anomeric carbon in fructose).
 
-<img src="media/image104.emf"
+<img src="media/image104.png"
 style="width:5.12986in;height:4.12986in" />
 
 fig 11
@@ -396,7 +396,7 @@ carbohydrate nomenclature as **fructofuranose**. In the formation of
 fructofuranose from open-chain fructose, the hydroxyl group on the
 *fifth* carbon attacks the ketone.
 
-<img src="media/image105.emf"
+<img src="media/image105.png"
 style="width:4.49097in;height:3.82431in" />
 
 fig 12)
@@ -422,7 +422,7 @@ specify whether the structure shown is a hemiacetal or hemiketal.
 b\) Draw mechanisms for cyclization of the open-chain forms to the
 cyclic forms shown.
 
-<img src="media/image106.emf"
+<img src="media/image106.png"
 style="width:3.13889in;height:1.22222in" />
 
 fig 12a
@@ -436,7 +436,7 @@ to form an acetal or ketal. The second alcohol may be the same as the
 first (ie*.* if R<sub>2</sub> = R<sub>3</sub> in the scheme below), or
 different.
 
-<img src="media/image107.emf"
+<img src="media/image107.png"
 style="width:3.93542in;height:0.99097in" />
 
 fig 13
@@ -449,7 +449,7 @@ generally catalyzed by a strong acid.
 
 Acid-catalyzed acetal formation (non-biological)
 
-<img src="media/image108.emf"
+<img src="media/image108.png"
 style="width:4.82431in;height:3.97222in" />
 
 fig 18b
@@ -464,7 +464,7 @@ bound to the electrophilic carbon.
 
 Below are some examples of simple, non-biological acetal and ketals.
 
-<img src="media/image109.emf"
+<img src="media/image109.png"
 style="width:5.11111in;height:1.43542in" />
 
 fig
@@ -478,7 +478,7 @@ specify the required aldehyde/ketone and alcohol starting materials.
 hemiacetal, hemiketal, acetal, ketal, hydrate of an aldehyde, or hydrate
 of a ketone.
 
-<img src="media/image110.emf"
+<img src="media/image110.png"
 style="width:3.60208in;height:2.57431in" />
 
 fig 15c
@@ -486,7 +486,7 @@ fig 15c
 <u>Exercise 10.6:</u> Specify the acetal/ketal that would form from a
 reaction between the given starting compounds.
 
-<img src="media/image111.emf"
+<img src="media/image111.png"
 style="width:2.94444in;height:1.62986in" />
 
 fig 15d
@@ -503,7 +503,7 @@ glycosidic bonds which link individual sugar monomers to form
 polysaccharides (see section 1.3C for a quick review). Look at the
 glycosidic bond between two glucose monomers in a cellulase chain:
 
-<img src="media/image112.emf"
+<img src="media/image112.png"
 style="width:4.26875in;height:1.97222in" />
 
 fig 16
@@ -537,12 +537,12 @@ Mechanism for (biochemical) acetal formation:
 
 Hemiacetal activation phase:
 
-<img src="media/image113.emf"
+<img src="media/image113.png"
 style="width:3.66667in;height:1.13889in" />
 
 acetal formation phase:
 
-<img src="media/image114.emf"
+<img src="media/image114.png"
 style="width:4.68542in;height:2.51875in" />
 
 fig 18
@@ -579,7 +579,7 @@ reaction with a mechanism similar to the reaction in problem P9.13,
 followed by a UTP-dependent step A2, for which you were invited to
 propose a mechanism in problem P9.12.
 
-<img src="media/image115.emf"
+<img src="media/image115.png"
 style="width:5.66667in;height:3.87986in" />
 
 fig 19a
@@ -590,7 +590,7 @@ group on the growing cellulose chain in step 2 forms the glycosidic
 (acetal) bond. Note the inversion of stereochemistry. *Mol. Plant*
 **2011**, *4*, 199
 
-<img src="media/image116.emf" style="width:6in;height:2.63354in" />
+<img src="media/image116.png" style="width:6in;height:2.63354in" />
 
 fig 19
 
@@ -602,7 +602,7 @@ nucleophile and an alcohol leaving group.
 
 Mechanism for acetal hydrolysis (enzyme-catalyzed):
 
-<img src="media/image117.emf"
+<img src="media/image117.png"
 style="width:5.22222in;height:2.35208in" />
 
 fig 20
@@ -627,7 +627,7 @@ for a cellulase reaction.
 
 Cellulase mechanism:
 
-<img src="media/image118.emf" style="width:5.75in;height:6.12986in" />
+<img src="media/image118.png" style="width:5.75in;height:6.12986in" />
 
 fig 21
 
@@ -645,13 +645,13 @@ observation.
 <u>Exercise 10.9</u>: Below is the structure of the artificial sweetener
 sucralose. Identify the two anomeric carbons in the disaccharide.
 
-<img src="media/image119.emf"
+<img src="media/image119.png"
 style="width:2.11111in;height:1.68542in" />
 
 <u>Exercise 10.10</u>: Robinose is a disaccharide found in 'Chenille
 Plant', a flowering shrub native to the Pacific Islands.
 
-<img src="media/image120.emf"
+<img src="media/image120.png"
 style="width:2.22222in;height:1.69444in" />
 
 fig 21c
@@ -689,7 +689,7 @@ attacked not by a second alcohol but by an amine, what results is a kind
 of ‘mixed acetal’ in which the anomeric carbon is bonded to one oxygen
 and one nitrogen.
 
-<img src="media/image121.emf" style="width:0.75in;height:0.76875in" />
+<img src="media/image121.png" style="width:0.75in;height:0.76875in" />
 
 fig 22a
 
@@ -697,7 +697,7 @@ This arrangement is referred to by biochemists as an ***N*-glycosidic
 bond.** You may recognize these as the bonds in nucleosides and
 nucleotides that link the G, C, A, T, or U base to the sugar.
 
-<img src="media/image122.emf"
+<img src="media/image122.png"
 style="width:2.30556in;height:2.36111in" />
 
 fig 22
@@ -710,7 +710,7 @@ illustrated in step A of the general mechanism below.
 
 Mechanism for formation of an *N-*glycosidic bond:
 
-<img src="media/image123.emf" style="width:6in;height:2.14973in" />
+<img src="media/image123.png" style="width:6in;height:2.14973in" />
 
 fig 22b
 
@@ -725,7 +725,7 @@ pyrophosphate then leaves to generate a resonance-stabilized carbocation
 (step 1) which is attacked by a nucleophilic ammonia in step 2 to
 establish the *N*-glycosidic bond.
 
-<img src="media/image124.emf" style="width:6in;height:4.02329in" />
+<img src="media/image124.png" style="width:6in;height:4.02329in" />
 
 fig 23
 
@@ -741,7 +741,7 @@ pyrimidine ribonucleotides and (U, C and T) also begins with PRPP, but
 here the ring structure of the nucleotide base part of the biomolecule
 has already been 'pre-fabricated' in the form of orotate:
 
-<img src="media/image125.emf" style="width:6in;height:2.58582in" />
+<img src="media/image125.png" style="width:6in;height:2.58582in" />
 
 fig 23a
 
@@ -755,7 +755,7 @@ nucleoside, the *N*-glycosidic bond is broken by inorganic phosphate
 displacement reaction (*Biochemistry* **2011**, *50*, 9158). Predict the
 products of this reaction, and draw a likely mechanism.
 
-<img src="media/image126.emf"
+<img src="media/image126.png"
 style="width:2.85208in;height:1.86111in" />
 
 <u>Exercise 10.13</u>: Glycoproteins are proteins that are linked, by
@@ -766,7 +766,7 @@ the sugar must be activated prior to glycosidic bond formation. Below is
 the structure of the *activated* sugar hemiacetal substrate in an
 asparagine glycosylation reaction. (*Nature* **2011**, *474*, 350)
 
-<img src="media/image127.emf"
+<img src="media/image127.png"
 style="width:4.83333in;height:1.97222in" />
 
 fig 21a
@@ -791,12 +791,12 @@ neutral (imine).
 
 Iminium ion formation
 
-<img src="media/image128.emf"
+<img src="media/image128.png"
 style="width:2.93542in;height:1.02778in" />
 
 Mechanism (enzymatic):
 
-<img src="media/image129.emf"
+<img src="media/image129.png"
 style="width:4.82431in;height:1.63889in" />
 
 fig 25
@@ -818,12 +818,12 @@ mechanistically is simply the reverse of iminiom formation:
 
 Hydrolysis of an iminium ion:
 
-<img src="media/image130.emf"
+<img src="media/image130.png"
 style="width:2.55556in;height:0.86111in" />
 
 Mechanism (enzymatic):
 
-<img src="media/image131.emf"
+<img src="media/image131.png"
 style="width:5.02778in;height:1.88889in" />
 
 fig 26
@@ -833,7 +833,7 @@ in detail in chapter 12) often form iminium links between a carbonyl
 carbon on a substrate and a lysine residue from the active site of the
 enzyme, as in this aldolase reaction from the Calvin Cycle:
 
-<img src="media/image132.emf"
+<img src="media/image132.png"
 style="width:4.46319in;height:1.65764in" />
 
 fig 27
@@ -848,7 +848,7 @@ coenzyme called pyridoxal phosphate (PLP), also known as vitamin
 B<sub>6</sub>. In these reactions, the aldehyde carbon of PLP links to
 an enzymatic lysine in the active site:
 
-<img src="media/image133.emf"
+<img src="media/image133.png"
 style="width:4.83333in;height:1.97222in" />
 
 fig 27c
@@ -857,7 +857,7 @@ Then, the PLP-lysine imine linkage is traded for an imine linkage
 between PLP and the amino group on the substrate, in what can be
 referred to as a **transimination**.
 
-<img src="media/image134.emf"
+<img src="media/image134.png"
 style="width:3.79653in;height:3.90764in" />
 
 The mechanism for a transimination is very similar to that of imine
@@ -865,12 +865,12 @@ formation:
 
 Transimination reaction:
 
-<img src="media/image135.emf"
+<img src="media/image135.png"
 style="width:4.21319in;height:0.76875in" />
 
 Mechanism:
 
-<img src="media/image136.emf"
+<img src="media/image136.png"
 style="width:5.58333in;height:2.83333in" />
 
 fig 27e
@@ -880,17 +880,17 @@ pair of compounds.
 
 a\)
 
-<img src="media/image137.emf"
+<img src="media/image137.png"
 style="width:1.51875in;height:0.83333in" />
 
 b\)
 
-<img src="media/image138.emf"
+<img src="media/image138.png"
 style="width:2.09722in;height:0.83333in" />
 
 c\)
 
-<img src="media/image139.emf"
+<img src="media/image139.png"
 style="width:1.83333in;height:0.87986in" />
 
 fig 28a
@@ -898,7 +898,7 @@ fig 28a
 <u>Exercise 10.15</u>: Draw the imminium hydrolysis product for each of
 the following compounds.
 
-<img src="media/image140.emf" style="width:5.5in;height:0.87986in" />
+<img src="media/image140.png" style="width:5.5in;height:0.87986in" />
 
 fig 28b
 
@@ -908,14 +908,14 @@ a\) The metabolic intermediate shown below undergoes an intramolecular
 imine formation as a step in the biosynthesis of lysine (EC 4.3.3.7).
 Draw the product of this intramolecular imine formation step.
 
-<img src="media/image141.emf" style="width:2.75in;height:0.85208in" />
+<img src="media/image141.png" style="width:2.75in;height:0.85208in" />
 
 fig 27a
 
 b\) Predict the product of this iminium hydrolysis step (EC 2.3.1.117)
 from the proline degradation pathway.
 
-<img src="media/image142.emf"
+<img src="media/image142.png"
 style="width:1.71319in;height:0.76875in" />
 
 ## Section 10.6: A look ahead: addition of carbon and hydride nucleophiles to carbonyls
@@ -927,7 +927,7 @@ example, we will examine in detail some enzyme-catalyzed reactions where
 the attacking nucleophile is a resonance stabilized carbanion (usually
 an enolate ion):
 
-<img src="media/image143.emf"
+<img src="media/image143.png"
 style="width:3.63889in;height:2.82431in" />
 
 fig 28
@@ -936,7 +936,7 @@ Then in chapter 15, we will see how the carbonyl groups on aldehydes and
 ketones can be converted to alcohols through the nucleophilic addition
 of what is essentially a hydride (H<sup>-</sup>) ion.
 
-<img src="media/image144.emf"
+<img src="media/image144.png"
 style="width:2.63889in;height:1.11111in" />
 
 fig 29
@@ -985,13 +985,13 @@ challenging, multi-step biochemical reactions.
 between a lysine side chain and α-ketobutyrate (this is the first step
 in the degradation of lysine, EC 1.5.1.8).
 
-<img src="media/image145.emf"
+<img src="media/image145.png"
 style="width:1.55556in;height:1.07431in" />
 
 **P10.2:** Draw four possible cyclic hemiketal isomers of the compound
 below.
 
-<img src="media/image146.emf"
+<img src="media/image146.png"
 style="width:1.22222in;height:1.22222in" />
 
 **P10.3:** A downstream intermediate in the lysine degradation pathway
@@ -999,13 +999,13 @@ undergoes imine hydrolysis to release two amino acid products (EC
 1.5.1.1). Draw a mechanism for this hydrolysis reaction, and show the
 structures of the two products formed.
 
-<img src="media/image147.emf"
+<img src="media/image147.png"
 style="width:3.66667in;height:0.94444in" />
 
 **P10.4:** Below is the structure of lactose, the sugar found in dairy
 products.
 
-<img src="media/image148.emf" style="width:3in;height:1.57431in" />
+<img src="media/image148.png" style="width:3in;height:1.57431in" />
 
 Lactose is a disaccharide of galactose and glucose. People who are
 lactose intolerant do not produce enough lactase - the enzyme that
@@ -1028,7 +1028,7 @@ antioxidant in the body. When vitamin C does its job, it ends up being
 oxidized to dehydroascobate, which is usually drawn as shown below, in
 the so-called tricarbonyl form.
 
-<img src="media/image149.emf"
+<img src="media/image149.png"
 style="width:1.27778in;height:1.22222in" />
 
 Evidence suggests, however, that the most important form of
@@ -1041,7 +1041,7 @@ intramolecular hemiketal (see *Chemical and Engineering News*, Aug. 25,
 hydrolysis step in the degradation pathway for proline, one of the amino
 acids. Draw the structure of the starting compound.
 
-<img src="media/image150.emf"
+<img src="media/image150.png"
 style="width:1.13889in;height:0.87986in" />
 
 **P10.7:** The rearrangement below was proposed to proceed via imine
@@ -1049,7 +1049,7 @@ formation followed by nucleophilic substitution. Propose a mechanism
 that fits this description. (J. Biol. Chem. 280, 12858, scheme 2 part 2)
 .
 
-<img src="media/image151.emf"
+<img src="media/image151.png"
 style="width:3.66667in;height:1.62986in" />
 
 **P10.8:** The biochemical acetal-forming reactions we learned about in
@@ -1063,7 +1063,7 @@ carried out under acidic conditions, which means that the protonation
 state of intermediates will be different than biochemical reactions
 occurring at neutral pH.
 
-<img src="media/image152.emf" style="width:2.75in;height:0.85208in" />
+<img src="media/image152.png" style="width:2.75in;height:0.85208in" />
 
 *Problems 9-15 all involve variations on, and combinations of, the
 nucleophilic addition steps that we studied in this chapter. Although
@@ -1080,7 +1080,7 @@ below) is formed. Predict the starting substrate for this reaction, and
 propose a mechanism that involves a slight variation on typical imine
 formation. (EC 3.5.4.10)
 
-<img src="media/image153.emf"
+<img src="media/image153.png"
 style="width:3.46319in;height:1.77778in" />
 
 **P10.10:** Propose a mechanism for these steps in nucleotide
@@ -1088,12 +1088,12 @@ metabolism:
 
 a\) (EC 3.5.4.5)(
 
-<img src="media/image154.emf"
+<img src="media/image154.png"
 style="width:2.65764in;height:1.40764in" />
 
 b\) (EC 3.5.4.4)
 
-<img src="media/image155.emf"
+<img src="media/image155.png"
 style="width:3.21319in;height:1.37986in" />
 
 **P10.11**
@@ -1102,7 +1102,7 @@ a\) Draw the structure (including stereochemistry) of the compound that
 results when the cyclic hemiketal shown below coverts to an open-chain
 compound with two ketone groups.
 
-<img src="media/image156.emf"
+<img src="media/image156.png"
 style="width:1.91667in;height:1.13889in" />
 
 b\) The compound shown below undergoes a ring-opening reaction to form a
@@ -1110,7 +1110,7 @@ species that can be described as both an enol and an enamine. Draw the
 structure (including stereochemistry) of this product, and a likely
 mechanism for its formation. (EC 5.3.1.24)
 
-<img src="media/image157.emf"
+<img src="media/image157.png"
 style="width:2.27778in;height:1.04653in" />
 
 **P10.12:** Tetrahydrofolate (THF) is a coenzyme that serves as a
@@ -1123,7 +1123,7 @@ imine-to-imine tautomerization, followed by an imine hydrolysis. Propose
 a reasonable mechanism that fits this description. *Hint*: first
 identify the carbon atom being transferred.
 
-<img src="media/image158.emf"
+<img src="media/image158.png"
 style="width:4.19444in;height:2.80556in" />
 
 **P10.13:** Hydrazones are close relatives of imines, formed in
@@ -1139,14 +1139,14 @@ required, and the reaction is complete in seconds).
 Determine the starting materials required for the synthesis of
 guanafuracin, and propose a likely mechanism for the reaction.
 
-<img src="media/image159.emf"
+<img src="media/image159.png"
 style="width:4.02778in;height:3.11111in" />
 
 **P10.14:** Propose reasonable mechanisms for the following steps from
 the histidine biosynthesis pathway, and predict the structure of
 intermediate A (which is open-chain, not cyclic).
 
-<img src="media/image160.emf"
+<img src="media/image160.png"
 style="width:5.05556in;height:2.29653in" />
 
 ***The last several problems are quite challenging!***
@@ -1155,7 +1155,7 @@ style="width:5.05556in;height:2.29653in" />
 6-phosphate from fructose-6-phosphate. One of several intermediates is
 shown. (EC 2.6.1.16.)
 
-<img src="media/image161.emf" style="width:4.75in;height:3.18542in" />
+<img src="media/image161.png" style="width:4.75in;height:3.18542in" />
 
 **P10.16 :** α-chloromethyl ketones (structure below) are effective
 irreversible inhibitors of proteolytic (peptide-bond breaking) enzymes
@@ -1170,13 +1170,13 @@ The mechanism of inactivation is thought to involve an epoxide
 intermediate - with this in mind, propose a reasonable mechanism of
 inactivation.
 
-<img src="media/image162.emf"
+<img src="media/image162.png"
 style="width:2.51389in;height:1.81944in" />
 
 **P10.17:** An enzyme in *E. coli* bacteria catalyzes the hydrolysis of
 α-glucose-GDP to glucose.
 
-<img src="media/image163.emf" style="width:3.80556in;height:1.25in" />
+<img src="media/image163.png" style="width:3.80556in;height:1.25in" />
 
 <sup>1</sup>H-NMR analysis of the reaction in progress showed the
 initial appearance of a doublet at 4.64 ppm with J = 7.9 Hz (the
@@ -1195,7 +1195,7 @@ doublet).
 pathway, catalyzes the transformation of (L)-arginine to (L)-citrulline
 via a covalent substrate-cysteine intermediate.
 
-<img src="media/image164.emf"
+<img src="media/image164.png"
 style="width:4.69444in;height:2.79167in" />
 
 This enzyme is the target for the development of drugs for cancer and
