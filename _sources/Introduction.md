@@ -13,7 +13,7 @@
 **  
 **
 
-<img src="media/image1.png" style="width:1.24444in;height:0.43077in"
+<img src="media/OCBE_II/image1.png" style="width:1.24444in;height:0.43077in"
 alt="ttps://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" />
 
 This work is licensed under the Creative Commons
