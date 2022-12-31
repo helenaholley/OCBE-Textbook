@@ -4,6 +4,17 @@
 format: jb-book
 root: Introduction
 parts:
+  - caption: Organic Chemistry with a Biological Emphasis Part 1
+    chapters:
+    - file: OCBE_I/Chapter 1 - Introduction to organic structure and bonding, part I
+    - file: OCBE_I/Chapter 2 - Introduction to organic structure and bonding, part II
+    - file: OCBE_I/Chapter 3 - Conformation and stereochemistry
+    - file: OCBE_I/Chapter 4 - Structure determination, part I - Mass spectrometry, infrared, and UV-visible spectroscopy
+    - file: OCBE_I/Chapter 5 - Structure determination, part II - Nuclear magnetic resonance spectroscopy
+    - file: OCBE_I/Chapter 6 - Overview of organic reactivity
+    - file: OCBE_I/Chapter 7 - Acid-base reactions
+    - file: OCBE_I/Chapter 8 - Nucleophilic substitution reactions
+    - file: OCBE_I/Tables
   - caption: Organic Chemistry with a Biological Emphasis Part 2
     chapters:
     - file: OCBE_II/Chapter 9 - Phosphate Transfer Reactions
