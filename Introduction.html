@@ -364,12 +364,60 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Welcome to the Unofficial Living Textbook: Organic Chemistry With a Biological Emphasis
+  </a>
+  <ul class="visible nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#how-to-suggest-edits">
+     How to suggest edits
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#formatting">
+     Formatting
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#images-and-figures">
+     Images and Figures
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#organic-chemistry-with-a-biological-emphasis">
+   Organic Chemistry With a Biological Emphasis
+  </a>
+  <ul class="visible nav section-nav flex-column">
+  </ul>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -381,6 +429,43 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Welcome to the Unofficial Living Textbook: Organic Chemistry With a Biological Emphasis
+  </a>
+  <ul class="visible nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#how-to-suggest-edits">
+     How to suggest edits
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#formatting">
+     Formatting
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#images-and-figures">
+     Images and Figures
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#organic-chemistry-with-a-biological-emphasis">
+   Organic Chemistry With a Biological Emphasis
+  </a>
+  <ul class="visible nav section-nav flex-column">
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -390,9 +475,28 @@ title="Print to PDF"
                 
   <section id="welcome-to-the-unofficial-living-textbook-organic-chemistry-with-a-biological-emphasis">
 <h1>Welcome to the Unofficial Living Textbook: Organic Chemistry With a Biological Emphasis<a class="headerlink" href="#welcome-to-the-unofficial-living-textbook-organic-chemistry-with-a-biological-emphasis" title="Permalink to this headline">#</a></h1>
-<p>This page was created as a resource for organic chemistry students at Dickinson College. We’ll be using it to update the textbook and add new content!</p>
-<p>The cover page contents of the original textbook continue below:</p>
-<p><em>Organic Chemistry With a Biological Emphasis</em></p>
+<p>This page was created as a resource for organic chemistry students at Dickinson College. We’ll be using it to update the textbook and add new content! <em>If you’re here to suggest edits to the textbook for extra credit, see the guide below.</em></p>
+<section id="how-to-suggest-edits">
+<h2>How to suggest edits<a class="headerlink" href="#how-to-suggest-edits" title="Permalink to this headline">#</a></h2>
+<p>We’ll be keeping track of changes to the textbook via a coding collaboration tool called “GitHub”. Thus, to suggest edits, you’ll need to <a class="reference external" href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F&amp;source=header-home">create a GitHub account</a> if you don’t have one already.</p>
+<p>If you think that you’ve found an error and would like to suggest an edit, navigate to the relevant chapter (using the sidebar on the left) and click the dropdown “suggest edit” as shown below:</p>
+<p><img alt="The location of the suggest edit button in the upper right of the page." src="intro_media/edit.png" /></p>
+<p>This will take you to the source code on GitHub where you’ll need to log in and create a new “pull request”. You can then edit the page and submit the pull request. This will allow me to review the change before it gets merged into the textbook.</p>
+</section>
+<section id="formatting">
+<h2>Formatting<a class="headerlink" href="#formatting" title="Permalink to this headline">#</a></h2>
+<p>The formatting of the textbook (including this page) is written in <a class="reference external" href="https://en.wikipedia.org/wiki/Markdown">markdown</a>, which is sort of a coding language of it’s own designed for writing. You don’t have to worry about using markdown too much (unless you want to). I’ll format your changes if your edits look wonky.</p>
+</section>
+<section id="images-and-figures">
+<h2>Images and Figures<a class="headerlink" href="#images-and-figures" title="Permalink to this headline">#</a></h2>
+<p>I already know that there are a some images in the text that are not exactly right. The Chemdraws converted strangely when I pulled them out of the original Word Doc. <em>Please do not submit edits for wonky looking figures with overlapping text.</em> However, if you find an <em>error</em> in a figure, you can submit that change as an “issue” in the dropdown:</p>
+<p><img alt="The location of the issue button in the upper right of the page." src="intro_media/issue.png" /></p>
+<p>Please provide the chapter and figure number in the description of the issue, and I’ll make the change when I get a chance to draw up the new figure.</p>
+<p><strong>The cover page contents of the original textbook continue below:</strong></p>
+</section>
+</section>
+<section id="organic-chemistry-with-a-biological-emphasis">
+<h1>Organic Chemistry With a Biological Emphasis<a class="headerlink" href="#organic-chemistry-with-a-biological-emphasis" title="Permalink to this headline">#</a></h1>
 <p><strong>Tim Soderberg, University of Minnesota, Morris, January 2016</strong></p>
 <p>This work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.</p>
