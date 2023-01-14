@@ -1,26 +1,17 @@
-**Organic Chemistry**
+*Welcome to the Unofficial Living Textbook: Organic Chemistry With a Biological Emphasis*
 
-**With a Biological Emphasis**
+This page was created as a resource for organic chemistry students at Dickinson College. We'll be using it to update the textbook and add new content! 
 
-**Volume II: Chapters 9-17**
+The cover page contents of the original textbook continue below:
 
-**Tim Soderberg**
+*Organic Chemistry With a Biological Emphasis*
 
-**University of Minnesota, Morris**
-
-**January 2016**
-
-**  
-**
-
-<img src="media/OCBE_II/image1.png" style="width:1.24444in;height:0.43077in"
-alt="ttps://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" />
+**Tim Soderberg, University of Minnesota, Morris, January 2016**
 
 This work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/**  
-**
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Notes to the reader:**
 
