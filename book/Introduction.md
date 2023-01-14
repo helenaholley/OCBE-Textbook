@@ -1,6 +1,8 @@
 *Welcome to the Unofficial Living Textbook: Organic Chemistry With a Biological Emphasis*
 
-This page was created as a resource for organic chemistry students at Dickinson College. The cover page contents of the original textbook continue below.
+This page was created as a resource for organic chemistry students at Dickinson College. We'll be using it to update the textbook and add new content! 
+
+The cover page contents of the original textbook continue below:
 
 *Organic Chemistry With a Biological Emphasis*
 
