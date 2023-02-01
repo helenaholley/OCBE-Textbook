@@ -18,11 +18,11 @@ The formatting of the textbook (including this page) is written in [markdown](ht
 
 ### Images and Figures
 
-I already know that there are a some images in the text that are not exactly right. The Chemdraws converted strangely when I pulled them out of the original Word Doc. *Please do not submit edits for wonky looking figures with overlapping text.* However, if you find an *error* in a figure, you can submit that change as an "issue" in the dropdown:
+I already know that there are a some images in the text that are not exactly right. The Chemdraws converted strangely when I pulled them out of the original Word Doc. It would be great if you could help me correct these figures! First, draw the corrected figure in ChemDraw, and submit the file as an attachment for an "issue" in the dropdown:
 
 ![The location of the issue button in the upper right of the page.](intro_media/issue.png)
 
-Please provide the chapter and figure number in the description of the issue, and I'll make the change when I get a chance to draw up the new figure.
+Please provide the chapter and figure number in the description of the issue, and I'll make the change when I get a chance to drop in your new figure.
 
 **The cover page contents of the original textbook continue below:**
 
