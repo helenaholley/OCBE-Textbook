@@ -22,7 +22,7 @@ glimpse into the world of scientific research and debate.
 
 It all started when the American National Aeronautics and Space
 Administration (NASA) released the following statement to the news
-media/OCBE_II:
+media:
 
 > “NASA will hold a news conference at 2 p.m. EST on Thursday, Dec. 2,
 > to
@@ -32,7 +32,7 @@ of
 
 extraterrestrial life.”
 
-The wording of the statement attracted widespread media/OCBE_II attention, and
+The wording of the statement attracted widespread media attention, and
 had some people holding their breath in anticipation that NASA would be
 introducing a newly discovered alien life form to the world. When
 December 2<sup>nd</sup> came, however, those hoping to meet ET were
@@ -85,7 +85,7 @@ water.
 
 Given this background, it is not hard to imagine that many scientists
 were puzzled, to say the least, by the NASA results. While the popular
-media/OCBE_II took the announcement at face value and excitedly reported the
+media took the announcement at face value and excitedly reported the
 results as a monumental discovery – NASA is, after all, a highly
 respected scientific body and the study was being published in Science
 Magazine, one of the most prestigious scientific journals in the world –
@@ -117,7 +117,7 @@ feeds. The proper venue for such discussion, they claimed, was in the
 peer-reviewed literature. Critics countered that their refusal to
 respond to anything outside of the traditional peer-review system was
 disingenuous, because they had made full use of the publicity-generating
-power of the internet and mainstream media/OCBE_II in the first place when they
+power of the internet and mainstream media in the first place when they
 announced their results with such fanfare.
 
 The traditional venue for debate, while quite a bit slower than the
