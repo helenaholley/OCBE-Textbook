@@ -239,7 +239,7 @@ j\) propene, CH<sub>2</sub>CHCH<sub>3</sub>
 
 k\) pyruvic acid, CH<sub>3</sub>COCO<sub>2</sub>H
 
-## Section 1.1: Drawing organic structures
+##  1.1: Drawing organic structures
 
 ### 1.1A: Formal charges
 
@@ -734,7 +734,7 @@ b\) C<sub>4</sub>H<sub>10</sub>O
 
 c\) C<sub>3</sub>H<sub>9</sub>N
 
-## Section 1.2: Functional groups and organic nomenclature
+##  1.2: Functional groups and organic nomenclature
 
 ### 1.2A: Functional groups in organic compounds
 
@@ -1284,7 +1284,7 @@ R<sub>2</sub>.
 
 <img src="media/image65.png" style="width:4.49097in;height:3.02778in" />
 
-## Section 1.3: Structures of important classes of biological molecules
+##  1.3: Structures of important classes of biological molecules
 
 Because we are focusing in this textbook on biologically relevant
 organic chemistry, we will frequently be alluding to important classes

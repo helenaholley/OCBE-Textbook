@@ -153,7 +153,7 @@ throughout the rest of the text, our main job will be to understand the
 mechanisms of the most important types of reactions undergone by organic
 molecules in living organisms.
 
-## Section 6.1: A first look at some reaction mechanisms
+##  6.1: A first look at some reaction mechanisms
 
 ### 6.1A: An acid-base (proton transfer) reaction
 
@@ -435,7 +435,7 @@ mistake of using curved arrows to depict the motion of *atoms*. This is
 incorrect! The curved arrows in an organic mechanism ***always*** refer
 to the motion of *electrons*.
 
-## Section 6.2: A brief review of thermodynamics and kinetics
+##  6.2: A brief review of thermodynamics and kinetics
 
 You may recall from general chemistry that it is often convenient to
 illustrate the energetics of a chemical reaction with a **reaction
@@ -685,7 +685,7 @@ and reverse directions?
 **  
 **
 
-## Section 6.3: Catalysis 
+##  6.3: Catalysis 
 
 Consider a hypothetical reaction R → P described by the diagram below.
 
@@ -847,7 +847,7 @@ some manner with the reaction being catalyzed. Table 6 at the back of
 the book shows the structures of several coenzymes commonly seen in
 biochemical reactions.
 
-## Section 6.4: Comparing biological reactions to laboratory reactions 
+##  6.4: Comparing biological reactions to laboratory reactions 
 
 The focus of this book is on organic chemistry in a biological context.
 At various points in our investigation of organic reactivity, however,

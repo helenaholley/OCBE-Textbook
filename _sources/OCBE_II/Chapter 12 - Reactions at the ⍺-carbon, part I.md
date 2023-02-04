@@ -171,7 +171,7 @@ It all starts with the α-carbon - and as both the Australian fisherman
 and the Amazonian hunter could attest, what happens at the α-carbon can
 have some rather dramatic consequences.
 
-## Section 12.1: Review of acidity at the α-carbon
+##  12.1: Review of acidity at the α-carbon
 
 Let's review what we learned in section 7.6A about the acidity of a
 proton on an α-carbon and the structure of the relevant conjugate base,
@@ -215,7 +215,7 @@ However, whenever you see an enolate intermediate in an enzyme-catalyzed
 reaction, you should remember that there are stabilizing interactions in
 play inside the active site.
 
-## Section 12.2: Isomerization at the α-carbon
+##  12.2: Isomerization at the α-carbon
 
 Enolate ions, as well as enols and and enamines (section 7.6) are the
 key reactive intermediates in many biochemical isomerization reactions.
@@ -408,7 +408,7 @@ fig 14a
 **  
 **
 
-## Section 12.3: Aldol addition reactions
+##  12.3: Aldol addition reactions
 
 We arrive now at one of the most important mechanisms in metabolism: the
 aldol addition.
@@ -725,7 +725,7 @@ fig 30
 <u>Exercise 12.10</u>: Draw the carbon-carbon bond breaking step in the
 reaction above. Use the Fischer projection notation.
 
-## Section 4: ⍺-carbon reactions in the synthesis lab - kinetic vs. thermodynamic enolates
+##  4: ⍺-carbon reactions in the synthesis lab - kinetic vs. thermodynamic enolates
 
 While aldol addition reactions are widespread in biochemical pathways as
 a way of forming carbon-carbon bonds, synthetic organic chemists working

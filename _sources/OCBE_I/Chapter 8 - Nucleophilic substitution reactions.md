@@ -99,7 +99,7 @@ Spector, Tim, 2013. [*Identically Different: Why We Can Change Our
 Genes*](https://www.amazon.com/dp/B00X76SVYQ/ref=rdr_kindle_ext_tmb).
 Overlook Hardcover. ISBN 978-1468306606
 
-## Section 8.1: Two mechanistic models for nucleophilic substitution 
+##  8.1: Two mechanistic models for nucleophilic substitution 
 
 As we begin our study of nucleophilic substitution reactions, we will
 focus at first on simple alkyl halide compounds. While the specific
@@ -366,7 +366,7 @@ we work through the basic concepts.
 [Video tutorial/animation: SN1
 reactions](https://www.youtube.com/watch?v=JmcVgE2WKBE)
 
-## Section 8.2: Nucleophiles
+##  8.2: Nucleophiles
 
 ### 8.2A: What is a nucleophile?
 
@@ -647,7 +647,7 @@ g\) aniline or 4-methoxyaniline?
 
 h\) phenolate or 2,6-dimethylphenolate?
 
-## Section 8.3: Electrophiles and carbocation stability
+##  8.3: Electrophiles and carbocation stability
 
 Next, we turn to electrophiles. In the vast majority of the nucleophilic
 substitution reactions you will see in this and other organic chemistry
@@ -1033,7 +1033,7 @@ double bond.
 Substitution by an S<sub>N</sub>1 pathway is equally unlikely because of
 the inherent instability of a vinylic (double-bonded) carbocation.
 
-## Section 8.4: Leaving groups
+##  8.4: Leaving groups
 
 Next, we investigate what makes a good leaving group. It's really quite
 straightforward: everything that we learned in chapter 7 about
@@ -1092,7 +1092,7 @@ converted into phosphates, which can be excellent biochemical leaving
 groups. We will learn much more about the structure and reactions of
 organic phosphate compounds in chapter 9.
 
-## Section 8.5: Regiochemistry of S<sub>N</sub>1 reactions with allylic electrophiles
+##  8.5: Regiochemistry of S<sub>N</sub>1 reactions with allylic electrophiles
 
 S<sub>N</sub>1 reactions with allylic electrophiles can often lead to
 more than one possible regiochemical outcome - resonance delocalization
@@ -1114,7 +1114,7 @@ one - electrophilic carbon. Problem 15, 17, and 19 at the end of this
 chapter provide some examples of regio- and stereospecific biochemical
 substitution reactions at allylic carbon electrophiles.
 
-## Section 8.6: S<sub>N</sub>1 or S<sub>N</sub>2? Predicting the mechanism
+##  8.6: S<sub>N</sub>1 or S<sub>N</sub>2? Predicting the mechanism
 
 First of all, it is important to understand that the S<sub>N</sub>1 and
 S<sub>N</sub>2 mechanism models are just that: models. While many
@@ -1183,7 +1183,7 @@ polar aprotic solvent
 [Video tutorial: nucleophilic substitution
 reactions](https://www.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/sn1-sn2-tutorial/v/nucleophile-electrophile-and-the-schwartz-rules)
 
-## Section 8.7: Biological nucleophilic substitution reactions
+##  8.7: Biological nucleophilic substitution reactions
 
 The nucleophilic substitution reactions we have seen so far have all
 been laboratory reactions, rather than biochemical ones. Now, finally,
@@ -1431,7 +1431,7 @@ and accurate for describing many substitution reactions, other reactions
 are not necessarily 'pure' S<sub>N</sub>1 or S<sub>N</sub>2, but
 actually lie somewhere in between.
 
-## Section 8.8: Nucleophilic substitution in the organic synthesis laboratory
+##  8.8: Nucleophilic substitution in the organic synthesis laboratory
 
 ### 8.8A: The Williamson ether synthesis
 

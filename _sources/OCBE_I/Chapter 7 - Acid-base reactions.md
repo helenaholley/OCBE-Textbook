@@ -221,7 +221,7 @@ that we will see throughout the remainder of the book.
 Broth, Gave Himself an Ulcer, and Solved a Medical
 Mystery*](http://discovermagazine.com/2010/mar/07-dr-drank-broth-gave-ulcer-solved-medical-mystery)
 
-## Section 7.1: Overview of acid-base reactions
+##  7.1: Overview of acid-base reactions
 
 ### 7.1A: The Brønsted-Lowry definition of acidity and basicity
 
@@ -323,7 +323,7 @@ While it is important to be familiar with the Lewis definition of
 acidity, the focus throughout the remainder of this chapter will be on
 acid-base reactions of the (proton-transferring) Brønsted-Lowry type.
 
-## Section 7.2: The acidity constant
+##  7.2: The acidity constant
 
 ### 7.2A: Defining the acidity constant
 
@@ -662,7 +662,7 @@ on solute molecules?
 <u>Exercise 7.10</u>: What is the approximate net charge on a
 tetrapeptide Cys-Asp-Lys-Glu in pH 7 buffer?
 
-## Section 7.3: Structural effects on acidity and basicity
+##  7.3: Structural effects on acidity and basicity
 
 Now that we know how to quantify the strength of an acid or base, our
 next job is to gain an understanding of the fundamental reasons behind
@@ -949,7 +949,7 @@ style="width:2.68542in;height:1.26875in" />
 
 fig 27
 
-## Section 7.4: Acid-base properties of phenols
+##  7.4: Acid-base properties of phenols
 
 Resonance effects involving aromatic structures can have a dramatic
 influence on acidity and basicity. Notice, for example, the difference
@@ -1082,7 +1082,7 @@ style="width:3.26875in;height:0.86111in" />
 
 f ig 36
 
-## Section 7.5: Acid-base properties of nitrogen-containing functional groups
+##  7.5: Acid-base properties of nitrogen-containing functional groups
 
 Many of the acid-base reactions we will see throughout our study of
 biological organic chemistry involve functional groups which contain
@@ -1249,7 +1249,7 @@ b\) There is one nitrogen that does not fall into any of these types -
 is it basic? Why or why not? What would be a good two-word term to
 describe the group containing this nitrogen?
 
-## Section 7.6: Carbon acids 
+##  7.6: Carbon acids 
 
 So far, we have limited our discussion of acidity and basicity to
 heteroatom acids, where the acidic proton is bound to an oxygen,
@@ -1486,7 +1486,7 @@ amide (NaNH<sub>2</sub>).
 relatively strong carbon acid, with a pKa of 9.2. Suggest a rationale
 for the acidity of this proton.
 
-## Section 7.7: Polyprotic acids
+##  7.7: Polyprotic acids
 
 Polyprotic acids are capable of donating more than one proton. The most
 important polyprotic acid group from a biological standpoint is
@@ -1547,7 +1547,7 @@ has three carboxylic acid groups and pKa values of 3.1, 4.8, and 6.4.
 <img src="media/image610.png"
 style="width:1.93542in;height:1.02778in" />
 
-## Section 7.8: Effects of enzyme microenvironment on acidity and basicity
+##  7.8: Effects of enzyme microenvironment on acidity and basicity
 
 Virtually all biochemical reactions take place inside the active site
 pocket of an enzyme, rather than free in aqueous solution. The
