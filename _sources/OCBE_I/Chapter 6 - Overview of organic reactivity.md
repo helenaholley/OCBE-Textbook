@@ -1,4 +1,4 @@
-# Chapter 6: Overview of organic reactivity
+# 6: Overview of organic reactivity
 
 <img src="media/image493.jpg" style="width:5.05987in;height:3.375in" />
 

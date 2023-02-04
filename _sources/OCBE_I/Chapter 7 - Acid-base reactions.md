@@ -1,4 +1,4 @@
-# Chapter 7: Acid-base reactions
+# 7: Acid-base reactions
 
 <img src="media/image536.jpg"
 style="width:2.86736in;height:2.86736in" />

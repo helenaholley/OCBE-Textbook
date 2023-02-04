@@ -1,4 +1,4 @@
-# Chapter 2: Introduction to organic structure and bonding, part II
+# 2: Introduction to organic structure and bonding, part II
 
 <img src="media/image87.jpg" style="width:6in;height:3.58056in" />
 
