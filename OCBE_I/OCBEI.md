@@ -245,7 +245,7 @@ electrophiles will occur through the S<sub>N</sub>2 pathway.
 [Section 8.4: Leaving groups
 [415](#section-8.4-leaving-groups)](#section-8.4-leaving-groups)
 
-# Chapter 1: Introduction to organic structure and bonding, part I
+# 1: Introduction to organic structure and bonding, part I
 
 <img src="media/image2.jpg" style="width:3.93125in;height:2.61082in" />
 
@@ -1990,7 +1990,7 @@ cyclohexanol (there are more than two possible answers).
 **P1.10:** Draw structures of four different amides with molecular
 formula C<sub>3</sub>H<sub>7</sub>NO.
 
-# Chapter 2: Introduction to organic structure and bonding, part II
+# 2: Introduction to organic structure and bonding, part II
 
 <img src="media/image87.jpg" style="width:6in;height:3.58056in" />
 
@@ -4791,7 +4791,7 @@ resonance.
 <img src="media/image228.png"
 style="width:3.33333in;height:1.04444in" />
 
-# Chapter 3: Conformation and stereochemistry
+# 3: Conformation and stereochemistry
 
 <img src="media/image229.jpg"
 style="width:4.74583in;height:3.24746in" />
@@ -7217,7 +7217,7 @@ chapter.
 <img src="media/image372.png"
 style="width:2.47222in;height:0.52778in" />
 
-# Chapter 4: Structure determination, part I: Mass spectrometry, infrared, and UV-visible spectroscopy 
+# 4: Structure determination, part I: Mass spectrometry, infrared, and UV-visible spectroscopy 
 
 <img src="media/image373.jpg"
 style="width:5.62083in;height:3.74894in" />
@@ -8449,7 +8449,7 @@ cyclohexanone spectrum is unusually abundant, compared to the molecular
 ion peaks in the mass spectra of other ketones such as 2-hexanone or
 3-hexanone. Explain.
 
-# Chapter 5: Structure determination, part II: Nuclear magnetic resonance spectroscopy
+# 5: Structure determination, part II: Nuclear magnetic resonance spectroscopy
 
 revise: add
 
@@ -10986,7 +10986,7 @@ and <sup>13</sup>C can be observed by NMR. Without trying to predict
 chemical shift values, describe what the <sup>31</sup>P-NMR spectrum for
 isopentenyl diphosphate might look like.
 
-# Chapter 6: Overview of organic reactivity
+# 6: Overview of organic reactivity
 
 <img src="media/image493.jpg" style="width:5.05987in;height:3.375in" />
 
@@ -12051,7 +12051,7 @@ that are not directly involved in bond-breaking or bond-forming events
 above, draw curved arrows showing the electron movement that takes place
 in each step. Assume that both are one-step mechanisms.
 
-# Chapter 7: Acid-base reactions
+# 7: Acid-base reactions
 
 <img src="media/image536.jpg"
 style="width:2.86736in;height:2.86736in" />
@@ -13954,7 +13954,7 @@ more acidic than other hydrocarbons.
 <img src="media/image629.png"
 style="width:0.57431in;height:0.72222in" />
 
-# Chapter 8: Nucleophilic substitution reactions
+# 8: Nucleophilic substitution reactions
 
 <img src="media/image630.jpg" style="width:5.625in;height:3.74445in" />
 

@@ -1,4 +1,4 @@
-# Chapter 9: Phosphate transfer reactions
+# 9: Phosphate transfer reactions
 
 <img src="media/image2.jpeg" style="width:6in;height:3.99931in" />
 

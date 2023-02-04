@@ -1,4 +1,4 @@
-# Chapter 8: Nucleophilic substitution reactions
+# 8: Nucleophilic substitution reactions
 
 <img src="media/image630.jpg" style="width:5.625in;height:3.74445in" />
 

@@ -1,4 +1,4 @@
-# Chapter 10: Nucleophilic addition to carbonyl groups
+# 10: Nucleophilic addition to carbonyl groups
 
 <img src="media/image87.jpeg" style="width:6in;height:4in" />
 

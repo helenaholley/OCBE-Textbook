@@ -1,4 +1,4 @@
-# Chapter 4: Structure determination, part I: Mass spectrometry, infrared, and UV-visible spectroscopy
+# 4: Structure determination, part I: Mass spectrometry, infrared, and UV-visible spectroscopy
 
 <img src="media/image373.jpg"
 style="width:5.62083in;height:3.74894in" />

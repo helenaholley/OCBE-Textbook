@@ -19,7 +19,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 **  
 **
 
-# Chapter 1
+# 1
 
 **P1.1:**
 
@@ -92,7 +92,7 @@ bicarbonate is bent.
 
 <img src="media/image9.emf" style="width:4.51111in;height:0.81111in" />
 
-# Chapter 2 
+# 2 
 
 **P2.1:**
 
@@ -376,7 +376,7 @@ electrons in the system, but the compound is not cyclic).
 
 <img src="media/image32.emf" style="width:3.33333in;height:1.04444in" />
 
-# Chapter 3
+# 3
 
 **P3.7:**
 
@@ -471,7 +471,7 @@ the allene structure creates a multi-atom stereocenter.
 
 <img src="media/image41.emf" style="width:2.37986in;height:1.33333in" />
 
-# Chapter 4
+# 4
 
 **P4.1:**
 
@@ -558,7 +558,7 @@ strongly in the UV range. However, the different positions of the ketone
 (at the C<sub>4</sub> vs C<sub>5</sub> position) will result in the
 formation of fragments of different masses in an MS experiment.
 
-# Chapter 5
+# 5
 
 **P5.2**:
 
@@ -780,7 +780,7 @@ represents six protons.
 
 <img src="media/image53.emf" style="width:4.44444in;height:2.30556in" />
 
-# Chapter 6
+# 6
 
 **P6.1**:
 
@@ -823,7 +823,7 @@ a\)
 
 <img src="media/image58.emf" style="width:4.68542in;height:1.85208in" />
 
-# Chapter 7
+# 7
 
 **P7.2:**
 
@@ -1005,7 +1005,7 @@ is 50% protonated at pH 7 (this is always true when the pH of the
 solution equals the pKa of the buffer compound), so the concentration of
 the protonated form (imidazolium) is 25 mM.
 
-# Chapter 8
+# 8
 
 **P8.1:** All of the molecules in question are primary alkyl bromides,
 and the nucleophile is a very powerful thiolate ion – we are talking
@@ -1105,7 +1105,7 @@ configuration.
 
 <img src="media/image76.emf" style="width:2.94444in;height:1.08889in" />
 
-# Chapter 9
+# 9
 
 **P9.1:** Because no bonds to stereocenters are affected, the
 stereochemistry is unchanged.
@@ -1214,7 +1214,7 @@ fig 5
 
 **P9.14**: See *Biochem J*. **1982**, *201*, 665.
 
-# Chapter 10
+# 10
 
 **P10.1:**
 
@@ -1325,7 +1325,7 @@ style="width:6.18542in;height:3.12014in" />
 
 **P10.18:** See *J. Am. Chem. Soc.* **2005***, 127*, 16412.
 
-# Chapter 11
+# 11
 
 **P11.2:**
 
@@ -1437,7 +1437,7 @@ style="width:4.67569in;height:3.33333in" />
 
 fig 7
 
-# Chapter 13
+# 13
 
 **P13.4:**
 
@@ -1508,7 +1508,7 @@ we would see NMR signals in the 2-3 ppm range.
 <img src="media/image131.emf"
 style="width:5.41667in;height:3.54653in" />
 
-# Chapter 14
+# 14
 
 **P14.3: (***Microbiol*. **2005**, *151*, 2199 Fig 1)
 
@@ -1709,7 +1709,7 @@ style="width:5.99097in;height:1.82431in" />
 
 **P14.23:** See *J. Org. Chem*. **2003**, *68*, 5433
 
-# Chapter 15
+# 15
 
 **P15.1**
 
@@ -1880,7 +1880,7 @@ style="width:4.93542in;height:3.26875in" />
 c\) These are the early steps of the 'mevalonate pathway' of isoprenoid
 biosynthesis in eukaryotes.
 
-# Chapter 16
+# 16
 
 **P16.1:**
 
@@ -1970,7 +1970,7 @@ style="width:5.87986in;height:4.58333in" />
 
 fig 7
 
-# Chapter 17
+# 17
 
 **P17.1:**
 

@@ -1,4 +1,4 @@
-# Chapter 3: Conformation and stereochemistry
+# 3: Conformation and stereochemistry
 
 <img src="media/image229.jpg"
 style="width:4.74583in;height:3.24746in" />

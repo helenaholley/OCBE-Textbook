@@ -1,4 +1,4 @@
-# Chapter 9: Phosphate transfer reactions
+# 9: Phosphate transfer reactions
 
 <img src="media/image2.jpeg" style="width:6in;height:3.99931in" />
 
@@ -1496,7 +1496,7 @@ that the glucose-to-glucose mechanism is identical to the hydrolysis
 mechanism, aside from the identity of the ultimate phosphate acceptor.
 *Biochem J.,* **1982***, 201,* 665*.*
 
-# Chapter 10: Nucleophilic addition to carbonyl groups
+# 10: Nucleophilic addition to carbonyl groups
 
 <img src="media/image87.jpeg" style="width:6in;height:4in" />
 
@@ -2714,7 +2714,7 @@ slow down the hydrolysis step of the reaction, and why the rate of the
 hydrolysis step is more affected by the oxygen substitution than the
 S-alkylthiuronium-forming step.
 
-# Chapter 11**:** Nucleophilic acyl substitution reactions
+# 11**:** Nucleophilic acyl substitution reactions
 
 <img src="media/image165.jpg"
 style="width:1.76573in;height:3.35048in" />

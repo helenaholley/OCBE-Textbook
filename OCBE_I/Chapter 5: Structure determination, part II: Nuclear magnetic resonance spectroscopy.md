@@ -1,4 +1,4 @@
-# Chapter 5: Structure determination, part II: Nuclear magnetic resonance spectroscopy
+# 5: Structure determination, part II: Nuclear magnetic resonance spectroscopy
 
 revise: add
 

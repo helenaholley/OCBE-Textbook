@@ -6,7 +6,7 @@
 
 by Tim Soderberg
 
-# Chapter 1
+# 1
 
 **E1.1:**
 
@@ -124,7 +124,7 @@ compound would be an aldehyde not a ketone)
 
 **E1.17:** The linking group is a phosphate diester
 
-# Chapter 2 
+# 2 
 
 **E2.1**:
 
@@ -418,7 +418,7 @@ to shape. 2-3-dimethylbutane is more sphere-like and is capable of less
 efficient molecule-to-molecule packing, so it has weaker intermolecular
 interactions and thus a lower melting point.
 
-# Chapter 3 
+# 3 
 
 **E3.1**:
 
@@ -653,7 +653,7 @@ called *dextro*-methamphetamine.
 
 <img src="media/ICE_solutions/image60.png" style="width:1.41667in;height:0.66667in" />
 
-# Chapter 4
+# 4
 
 **E4.1**:
 
@@ -792,7 +792,7 @@ times more concentrated (remember that we diluted 50 uL of it into a
 total volume of 1000 uL), so the concentration of the original sample
 was 326 ng/uL, or 0.326 ug/uL.
 
-# Chapter 5
+# 5
 
 **E5.1**: The energy gaps of the magnetic transitions in observed in NMR
 are *much* smaller than those of the vibrational transitions observed in
@@ -1045,7 +1045,7 @@ etc.). To find the recorded chemical shift, simply take the average of
 all six subpeaks (or simply the average of the two middle subpeaks, 1583
 Hz and 1569 Hz): you find this is 1576 Hz.
 
-# Chapter 6
+# 6
 
 **E6.1**:
 
@@ -1136,7 +1136,7 @@ will see many of the individual enzymatic reactions later in this
 textbook, and you will see how these pathways fit together when you
 study biochemistry).
 
-# Chapter 7
+# 7
 
 **E7.1**:
 
@@ -1493,7 +1493,7 @@ the α-protons is lowered by the magnesium cation.
 <img src="media/ICE_solutions/image128.png"
 style="width:2.44444in;height:1.51875in" />
 
-# Chapter 8
+# 8
 
 **E8.1**: The H-C-O angle in the transition state pictured is
 90<sup>o</sup>.
@@ -1697,7 +1697,7 @@ alcohol nucleophile and a primary alkyl bromide electrophile:
 <img src="media/ICE_solutions/image140.png"
 style="width:3.93542in;height:0.66667in" />
 
-# Chapter 9
+# 9
 
 **E9.1**:
 
@@ -1842,7 +1842,7 @@ pair of doublets with fine (geminal) coupling of 1-2 Hz.
 
 fig 1b
 
-# Chapter 10
+# 10
 
 **E10.1**: Glucose and fructose are constitutional isomers (same
 molecular formula, but different atom-to-atom connectivity, as glucose
@@ -1969,7 +1969,7 @@ b\)
 
 <img src="media/ICE_solutions/image166.png" style="width:2.96319in;height:1in" />
 
-# Chapter 11
+# 11
 
 **E11.1**:
 
@@ -2128,7 +2128,7 @@ b\)
 
 <img src="media/ICE_solutions/image191.png" style="width:5.75in;height:0.52778in" />
 
-# Chapter 12
+# 12
 
 **E12.1**:
 
@@ -2253,7 +2253,7 @@ style="width:4.72222in;height:0.80556in" />
 <img src="media/ICE_solutions/image214.png"
 style="width:5.91667in;height:2.32431in" />
 
-# Chapter 13
+# 13
 
 **E13.1**:
 
@@ -2331,7 +2331,7 @@ style="width:1.54653in;height:1.01875in" />
 
 <img src="media/ICE_solutions/image230.png" style="width:6in;height:2.71369in" />
 
-# Chapter 14
+# 14
 
 **E14.1**:
 
@@ -2580,7 +2580,7 @@ b\)
 
 <img src="media/ICE_solutions/image272.png" style="width:6in;height:4.15962in" />
 
-# Chapter 15
+# 15
 
 **E15.1**: Zinc metal is being oxidized (it loses two electrons to
 become zinc cation). Copper cation is being reduced (it gains two
@@ -2730,7 +2730,7 @@ in the Baeyer-Villiger mechanism.
 <img src="media/ICE_solutions/image289.png"
 style="width:5.47222in;height:2.08333in" />
 
-# Chapter 16
+# 16
 
 **E16.1**:
 
@@ -2755,7 +2755,7 @@ resonance-stabilized.
 <img src="media/ICE_solutions/image293.png"
 style="width:5.51875in;height:1.37986in" />
 
-# Chapter 17
+# 17
 
 **E17.1**:
 
