@@ -19,6 +19,9 @@ parts:
     chapters:
     - file: OCBE_II/Chapter 9 - Phosphate Transfer Reactions
     - file: OCBE_II/Chapter 10 - Nucleophilic Addition to Carbonyl Groups
+    - file: OCBE_II/Chapter 11 - Nucleophilic acyl substitution reactions
+    - file: OCBE_II/Chapter 12 - Reactions at the ⍺-carbon, part I
+    - file: OCBE_II/Chapter 13 - Reactions at the ⍺-carbon, part II
   - caption: Solutions
     chapters:
     - file: Solutions/Solutions to in-chapter problems
