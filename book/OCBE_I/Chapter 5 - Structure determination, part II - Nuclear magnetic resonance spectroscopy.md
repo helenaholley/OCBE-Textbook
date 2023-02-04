@@ -89,7 +89,7 @@ While doctors use MRI peer inside the human body, we will see how NMR
 allows chemists to piece together, atom by atom and bond by bond, the
 structure of an organic molecule.
 
-## Section 5.1: The source of the NMR signal
+##  5.1: The source of the NMR signal
 
 ### 5.1A: The magnetic moment
 
@@ -222,7 +222,7 @@ for the vibrational transition observed in IR spectroscopy? Much bigger?
 Much smaller? Slightly bigger or smaller? About the same? How can you
 tell from the information presented in this section?
 
-## Section 5.2: Chemical equivalence
+##  5.2: Chemical equivalence
 
 The frequency of radiation absorbed by a proton (or any other nucleus)
 during a spin transition in an NMR experiment is called its '**resonance
@@ -363,7 +363,7 @@ following molecules contain?
 >
 > fig 7
 
-## Section 5.3: The <sup>1</sup>H-NMR experiment
+##  5.3: The <sup>1</sup>H-NMR experiment
 
 In an NMR experiment, a sample compound (we'll again use methyl acetate
 as our example) is placed inside a very strong applied magnetic field
@@ -563,7 +563,7 @@ sample of 36% 1,4-dimethylbenzene and 64% acetone (these are mole
 percentages). What is the expected integration ratio of the signals that
 you would observe? Order the ratio from highest to lowest numbers.
 
-## Section 5.4: The basis for differences in chemical shift 
+##  5.4: The basis for differences in chemical shift 
 
 ### 5.4A: Diamagnetic shielding and deshielding
 
@@ -792,7 +792,7 @@ compound \[18\] annulene has two peaks, at 8.9 ppm and -1.8 ppm (a
 > <img src="media/image437.png"
 > style="width:1.29653in;height:1.61111in" />
 
-## Section 5.5: Spin-spin coupling
+##  5.5: Spin-spin coupling
 
 The <sup>1</sup>H-NMR spectra that we have seen so far (of methyl
 acetate and 1,4-dimethylbenzene) are somewhat unusual in the sense that
@@ -1147,7 +1147,7 @@ spectroscopy](https://www.khanacademy.org/science/organic-chemistry/spectroscopy
 [Video of an actual NMR
 experiment](https://www.youtube.com/watch?v=uNM801B9Y84)
 
-## Section 5.6: <sup>13</sup>C-NMR spectroscopy
+##  5.6: <sup>13</sup>C-NMR spectroscopy
 
 The <sup>12</sup>C isotope of carbon - which accounts for up about 99%
 of the carbons in organic molecules - does not have a nuclear magnetic
@@ -1343,7 +1343,7 @@ and antimalaria drugs. ([*Eur. J. Biochem*. **1988**, *175*,
 
 fig 44
 
-## Section 5.7: Solving unknown structures 
+##  5.7: Solving unknown structures 
 
 Now it is finally time to put together all that we have studied about
 structure determination techniques and learn how to actually solve the
@@ -1672,7 +1672,7 @@ style="width:5.80556in;height:2.10208in" />
 
 fig 43
 
-## Section 5.8: Complex coupling in <sup>1</sup>H-NMR spectra
+##  5.8: Complex coupling in <sup>1</sup>H-NMR spectra
 
 In all of the examples of spin-spin coupling we saw in our discussion of
 proton NMR, the observed splitting resulted from the coupling of one set
@@ -1803,7 +1803,7 @@ HDTVs: better resolution means more information and clearer pictures
 **  
 **
 
-## Section 5.9: Other applications of NMR
+##  5.9: Other applications of NMR
 
 <u>A: Magnetic resonance imaging</u>
 

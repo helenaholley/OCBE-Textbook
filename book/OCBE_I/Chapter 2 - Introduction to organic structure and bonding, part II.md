@@ -125,7 +125,7 @@ electron configuration, and that you are able to describe *s* and *p*
 orbitals and orbital lobes and nodes. Now would also be a very good time
 to review *VSEPR* theory.
 
-## Section 2.1: Covalent bonding in organic molecules: valence bond theory
+##  2.1: Covalent bonding in organic molecules: valence bond theory
 
 As we have been discussing how to use Lewis structures to depict the
 bonding in organic compounds, we have been very vague so far in our
@@ -676,7 +676,7 @@ nitrogen atom of bond a? Of bond e?
 [Video tutorial: hybrid orbital
 practice](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review/hybrid-orbitals-jay/v/organic-hybridization-practice)
 
-## Section 2.2: Molecular orbital theory, conjugation, and aromaticity
+##  2.2: Molecular orbital theory, conjugation, and aromaticity
 
 Valence bond theory does a remarkably good job at explaining the bonding
 geometry of many of the functional groups in organic compounds. There
@@ -1141,7 +1141,7 @@ Explain, using criteria you learned in this section.
 <img src="media/image142.png"
 style="width:3.05556in;height:1.62222in" />
 
-## Section 2.3: Resonance
+##  2.3: Resonance
 
 ### 2.3A: What is resonance?
 
@@ -1678,7 +1678,7 @@ instructor or tutor*, *preferably* *using a molecular modeling kit*.
 Keep working problems, keep asking questions, and keep at it until it
 all makes sense!
 
-## Section 2.4: Non-covalent interactions
+##  2.4: Non-covalent interactions
 
 Until now we have been focusing on understanding the covalent bonds that
 hold individual molecules together. We turn next to a review on the
@@ -1914,7 +1914,7 @@ style="width:4.77778in;height:2.88889in" />
 
 fig 30c
 
-## Section 2.5: Physical properties of organic compounds
+##  2.5: Physical properties of organic compounds
 
 An understanding of the various types of noncovalent forces allows us to
 explain, on a molecular level, many observable physical properties of

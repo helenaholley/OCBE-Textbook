@@ -143,7 +143,7 @@ worry about bacterial infections may be near an end, as common toxic
 bacterial species such as *Staphylococcus* develop increasingly robust
 resistance to antibiotics.
 
-## Section 11.1: Carboxylic acid derivatives 
+##  11.1: Carboxylic acid derivatives 
 
 The functional groups at the heart of this chapter are called
 **carboxylic acid derivatives**: they include carboxylic acids
@@ -262,7 +262,7 @@ style="width:5.72222in;height:3.10208in" />
 
 fig 8a
 
-## Section 11.2: The nucleophilic acyl substitution mechanism
+##  11.2: The nucleophilic acyl substitution mechanism
 
 The fact that one of the atoms adjacent to the carbonyl carbon in
 carboxylic acid derivatives is an electronegative heteroatom – rather
@@ -388,7 +388,7 @@ from a carboxylate to a thioester, for example, requires the 'coupling'
 of the uphill reaction to an energetically favorable reaction. We will
 see how this works in the next section.
 
-## Section 11.4: Acyl phosphates 
+##  11.4: Acyl phosphates 
 
 Acyl phosphates, because they are so reactive towards acyl
 substitutions, are generally seen as reaction intermediates rather than
@@ -481,7 +481,7 @@ illustration of that concept. A lower-energy group (a carboxylate) is
 converted to a higher-energy group (a thioester, for example) by
 'spending' a high-energy ATP.
 
-## Section 11.5: Formation of thioesters, carboxylic esters, and amides
+##  11.5: Formation of thioesters, carboxylic esters, and amides
 
 ### 11.5A: Thioester formation
 
@@ -797,7 +797,7 @@ fig 21a
 >
 > c\) What is the coproduct of the reaction?
 
-## Section 11.6: Hydrolysis of thioesters, esters, and amides
+##  11.6: Hydrolysis of thioesters, esters, and amides
 
 So far we have been looking at the *formation* of thioesters, carboxylic
 esters, and amides, starting from carboxylates. In hydrolytic acyl
@@ -943,7 +943,7 @@ style="width:4.47778in;height:1.33333in" />
 
 fig 41b
 
-## Section 11.7: Protein synthesis on the ribosome
+##  11.7: Protein synthesis on the ribosome
 
 Recall from section 1.3D that the 'peptide bonds' which link amino acids
 to form polypeptides and proteins are in fact amide functional groups.
@@ -1044,7 +1044,7 @@ protein (this is called the carboxy-terminus, or *C*-terminus of the
 protein, while the other end – the ‘starting’ end – is called the
 *N*-terminus).
 
-## Section 11.8: Nucleophilic substitution at activated amides and carbamides
+##  11.8: Nucleophilic substitution at activated amides and carbamides
 
 In discussing the nucleophilic acyl substitution reactions of acyl
 phosphates, thioesters, esters, and amides, we have seen many slight
@@ -1122,7 +1122,7 @@ b\) Draw the structure of the cyclic product of a *hypothetical*
 intramolecular substitution reaction of citrulline (ie. aspartate is not
 involved).
 
-## Section 11.9: Nucleophilic acyl substitution reactions in the lab
+##  11.9: Nucleophilic acyl substitution reactions in the lab
 
 All of the biological nucleophilic acyl substitution reactions we have
 seen so far have counterparts in laboratory organic synthesis.
@@ -1398,7 +1398,7 @@ style="width:5.93333in;height:4.05556in" />
 
 fig 55c
 
-## Section 11.10: A look ahead - acyl substitution reactions with a carbon or hydride nucleophile
+##  11.10: A look ahead - acyl substitution reactions with a carbon or hydride nucleophile
 
 Although we have seen many different types of nucleophilic acyl
 substitutions in this chapter, we have not yet encountered a reaction in

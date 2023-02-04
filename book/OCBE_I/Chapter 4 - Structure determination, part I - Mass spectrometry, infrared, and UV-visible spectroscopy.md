@@ -117,7 +117,7 @@ questions about an organic molecule:
 > Nuclear magnetic resonance spectroscopy (NMR): *What is the overall
 > bonding framework of the molecule?*
 
-## Section 4.1: Mass Spectrometry
+##  4.1: Mass Spectrometry
 
 Mass spectrometry (MS) is a powerful analytical technique widely used by
 chemists, biologists, medical researchers, and environmental and
@@ -395,7 +395,7 @@ method for Alzheimer's which is much less expensive than brain scans,
 the only detection method currently available ([*Nature* **2018**,
 *554*, 249](https://www.nature.com/articles/nature25456)).
 
-## Section 4.2: Introduction to molecular spectroscopy
+##  4.2: Introduction to molecular spectroscopy
 
 ### 4.2A: The electromagnetic spectrum
 
@@ -502,7 +502,7 @@ involve absorption of radiation in the infrared, ultraviolet/visible,
 and radio regions of the electromagnetic spectrum. We will focus first
 on infrared spectroscopy.
 
-## Section 4.3: Infrared spectroscopy
+##  4.3: Infrared spectroscopy
 
 Covalent bonds in organic molecules are not rigid sticks – rather, they
 behave more like springs. At room temperature, organic molecules are
@@ -785,7 +785,7 @@ Rationalize the trend in wavelengths. (*Hint* - remember, we are
 thinking of bonds as springs, and looking at the frequency at which they
 'bounce').
 
-## Section 4.4: Ultraviolet and visible spectroscopy
+##  4.4: Ultraviolet and visible spectroscopy
 
 Ultraviolet and visible (UV-Vis) spectroscopy provides us with
 information about aromatic groups and other conjugated π systems in

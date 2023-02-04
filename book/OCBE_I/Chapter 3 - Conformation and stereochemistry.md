@@ -131,7 +131,7 @@ dimensions, with a molecular model in your hands!*
 **  
 **
 
-## Section 3.1: Conformations of open-chain organic molecules
+##  3.1: Conformations of open-chain organic molecules
 
 Before we begin our exploration of stereochemistry and chirality, we
 first need to consider the subject of **conformational isomerism**,
@@ -295,7 +295,7 @@ below (C<sub>2</sub> should be your *front* carbon).
 <img src="media/image241.png"
 style="width:1.12986in;height:0.74097in" />
 
-## Section 3.2: Conformations of cyclic organic molecules
+##  3.2: Conformations of cyclic organic molecules
 
 Browse through a biochemistry textbook and you will see any number of
 molecules with cyclic structures. Many of these cyclic structures are
@@ -624,7 +624,7 @@ very important implications for oligonucleotide structure – in a DNA
 double helix, it is C<sub>2</sub> that is in the *endo* position, while
 in RNA it is C<sub>3</sub>.
 
-## Section 3.3: Chirality and stereoisomers
+##  3.3: Chirality and stereoisomers
 
 We turn now to concept of chirality that formed the basis of the story
 about Louis Pasteur in the beginning of this chapter. Recall that the
@@ -876,7 +876,7 @@ chirality](https://www.khanacademy.org/science/organic-chemistry/stereochemistry
 [Video tutorials:
 enantiomers](https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic/optical-activity/v/drawing-enantiomers)
 
-## Section 3.4: Labeling chiral centers
+##  3.4: Labeling chiral centers
 
 Chemists need a convenient way to distinguish one stereoisomer from
 another. The **Cahn-Ingold-Prelog system** is a set of rules that allows
@@ -1040,7 +1040,7 @@ stereochemistry, draw the (*R*) enantiomer of ibuprofen and the (*S*)
 enantiomer of 2-methylerythritol-4-phosphate (structures are shown
 earlier in this chapter without stereochemistry).
 
-## Section 3.5: Optical activity
+##  3.5: Optical activity
 
 Chiral molecules, as we learned in the introduction to this chapter,
 have an interesting optical property. You may know from studying physics
@@ -1165,7 +1165,7 @@ one D-amino acid residue later in chapter 12.
 Table 5 at the end of the book to refer to the structures of all 20
 common amino acids.
 
-## Section 3.6: Compounds with multiple chiral centers
+##  3.6: Compounds with multiple chiral centers
 
 So far, we have been analyzing compounds with a single chiral center.
 Next, we turn our attention to those which have multiple chiral centers.
@@ -1433,7 +1433,7 @@ structures. *Hint* - figure out the configuration of each chiral center.
 
 fig 55h
 
-## Section 3.7: *Meso* compounds
+##  3.7: *Meso* compounds
 
 The levorotatory and dextrorotatory forms of tartaric acid studied by
 Louis Pasteur were, as we now know, the (*S,S*) and (*R,R*) enantiomers,
@@ -1490,7 +1490,7 @@ style="width:3.97778in;height:2.15556in" />
 [Video tutorial: stereoisomeric
 relationships](https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic/diastereomers-meso-compounds/v/stereoisomers-enantiomers-diastereomers-constitutional-isomers-and-meso-compounds)
 
-## Section 3.8: Fischer and Haworth projections 
+##  3.8: Fischer and Haworth projections 
 
 When reading the chemical and biochemical literature, you are likely to
 encounter several different conventions for drawing molecules in three
@@ -1584,7 +1584,7 @@ stereochemistry, it does not provide a realistic depiction of
 conformation. To show *both* conformation and stereochemistry, you must
 draw the ring in the chair form, as in structure C above.
 
-## Section 3.9: Stereochemistry of alkenes
+##  3.9: Stereochemistry of alkenes
 
 When we talk about stereochemistry, we are not always talking about
 chiral compounds and chiral centers. Consider *cis*- and
@@ -1755,7 +1755,7 @@ style="width:3.98889in;height:0.77778in" />
 
 fig 61c
 
-## Section 3.10: Stereochemistry in biology and medicine
+##  3.10: Stereochemistry in biology and medicine
 
 While challenging to understand and visualize, the stereochemistry
 concepts we have explored in this chapter are integral to the study of

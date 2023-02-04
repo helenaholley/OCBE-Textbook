@@ -161,7 +161,7 @@ http://rrresearch.fieldofscience.com/2010/12/arsenic-associated-bacteria-nasas.h
 *Science* **2012**, *337*, 467. The paper in Science Magazine refuting
 the validity of the arsenic bacteria claim.
 
-## Section 9.1: Overview of phosphate groups 
+##  9.1: Overview of phosphate groups 
 
 Phosphate is everywhere in biochemistry. As we were reminded in the
 introduction to this chapter, our DNA is linked by phosphate:
@@ -401,7 +401,7 @@ charges are delocalized over the non-bridging oxygens, and that there is
 some degree of protonation at physiological pH (with the exception of
 the phosphate diester group).
 
-## Section 9.2: Phosphate transfer reactions - an overview
+##  9.2: Phosphate transfer reactions - an overview
 
 In a phosphate transfer reaction, a phosphate group is transferred from
 a **phosphate group donor** molecule to a **phosphate group acceptor**
@@ -571,7 +571,7 @@ the equatorial position.
 > a\) O<sub>a</sub>-P-O<sub>a</sub> b) O<sub>a</sub>-P-O<sub>e</sub>
 > c)O<sub>e</sub>-P-O<sub>e</sub>
 
-## Section 9.3: ATP, the principal phosphate donor
+##  9.3: ATP, the principal phosphate donor
 
 Thus far we have been very general in our discussion of phosphate
 transfer reactions, referring only to generic 'donor' and 'acceptor'
@@ -705,7 +705,7 @@ fig 24d
 **  
 **
 
-## Section 9.4: Phosporylation of alcohols 
+##  9.4: Phosporylation of alcohols 
 
 A broad family of enzymes called **kinases** catalyze transfer of a
 phosphate group from ATP to an alcohol acceptor. Mechanistically, the
@@ -828,7 +828,7 @@ biosynthesis pathways, the diphosphate group of PRPP acts as a leaving
 group in the very next metabolic step, which is an S<sub>N</sub>1
 reaction: we have already seen this reaction in section 8.7B).
 
-## Section 9.5: Phosphorylation of carboxylates
+##  9.5: Phosphorylation of carboxylates
 
 Thus far we have seen hydroxyl oxygens and phosphate oxygens acting as
 nucleophilic accepting groups in ATP-dependent phosphate transfer
@@ -861,7 +861,7 @@ the nucleophile? What functional group is the leaving group?
 
 fig 36
 
-## Section 9.6: Hydrolysis of organic phosphates
+##  9.6: Hydrolysis of organic phosphates
 
 While kinase enzymes catalyze the phosphorylation of organic compounds,
 enzymes called **phosphatases** catalyze *de*phosphorylation reactions.
@@ -946,7 +946,7 @@ potentially distinguish between a nucleophilic substitution and
 phosphate group transfer mechanism by looking at where the
 <sup>18</sup>O atom ends up in the products.
 
-## Section 9.7: Phosphate diesters in DNA and RNA
+##  9.7: Phosphate diesters in DNA and RNA
 
 Phosphate diesters play an absolutely critical role in nature - they are
 the molecular 'tape' that connect the individual nucleotides in DNA and
@@ -1014,7 +1014,7 @@ stable, long-lived, and difficult to destroy.
 In contrast, DNA samples can be safely stored in aqueous buffer in a
 refrigerator, or in a freezer for longer-term storage.
 
-## Section 9.8: The organic chemistry of genetic engineering
+##  9.8: The organic chemistry of genetic engineering
 
 Many enzymes that catalyze reactions involving the phosphate diester
 bonds of DNA have been harnessed for use in genetic engineering -
@@ -1123,7 +1123,7 @@ way to make a new phosphodiester bond without a 5' phosphate group!
 **  
 **
 
-## Section 9.9: NMR of phosphorylated compounds
+##  9.9: NMR of phosphorylated compounds
 
 Because so many biological molecules contain phosphoryl groups, it is
 worthwhile to look at how scientists use NMR to determine the structure

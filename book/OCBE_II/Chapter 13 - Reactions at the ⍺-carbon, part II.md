@@ -167,7 +167,7 @@ study 'conjugate additions' and 'β-eliminations', common reaction
 patterns that involve double bonds in the α−β position relative to a
 carbonyl group, and which, again, proceed via enolate intermediates.
 
-## Section 13.1: Decarboxylation
+##  13.1: Decarboxylation
 
 Many carbon-carbon bond-forming and bond-breaking processes in
 biological chemistry involve the gain or loss, by an organic molecule,
@@ -309,7 +309,7 @@ style="width:4.38889in;height:2.99097in" />
 
 fig45a
 
-## Section 13.2: An overview of fatty acid metabolism
+##  13.2: An overview of fatty acid metabolism
 
 In the introduction to this chapter, we learned about a patient
 suffering from a rare disease affecting fatty acid metabolism. The
@@ -413,7 +413,7 @@ In section 13.4, we will look more closely at the reactions taking place
 in step III of fatty acid synthesis (an elimination) and step II of
 fatty acid degradation (a conjugate addition)
 
-## Section 13.3: Claisen condensation
+##  13.3: Claisen condensation
 
 ### 13.3A: Claisen condensation - an overview
 
@@ -635,7 +635,7 @@ undergo a different retro-Claisen cleavage reaction in which the
 nucleophilic water attacks the other ketone group. Predict the products
 of this hypothetical reaction.
 
-## Section 13.4: Conjugate addition and β-elimination
+##  13.4: Conjugate addition and β-elimination
 
 In this section, we will look at two more common biochemical reactions
 that proceed through enolate intermediates. In a typical **conjugate
@@ -785,7 +785,7 @@ negatively-charged (enolate) intermediate, and the double bond that
 forms as a result of the elimination. You may want to designate an
 appropriate 'R' group to reduce the amount of drawing.
 
-## Section 13.5: Carboxylation by the Rubisco enzyme
+##  13.5: Carboxylation by the Rubisco enzyme
 
 It is difficult to overstate the importance to biology and ecology of
 the enzymatic reaction we are going to see next: ribulose

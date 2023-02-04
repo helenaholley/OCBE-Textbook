@@ -128,7 +128,7 @@ of aldehydes and ketones is absolutely central to the chemistry of
 carbohydrates such as starch and cellulose, and it is this chemistry
 that is the subject of the chapter we are about to begin.
 
-## Section 10.1 Nucleophilic addition to aldehydes and ketones: an overview
+##  10.1 Nucleophilic addition to aldehydes and ketones: an overview
 
 ### 10.1A: The aldehyde and ketone functional groups
 
@@ -240,7 +240,7 @@ depending on the structure of the reactants and the conditions under
 which the reaction takes place. We'll see some examples of this
 phenomenon soon when we look at cyclic forms of sugar molecules.
 
-## Section 10.2: Hemiacetals, hemiketals, and hydrates
+##  10.2: Hemiacetals, hemiketals, and hydrates
 
 ### 10.2A: Overview
 
@@ -427,7 +427,7 @@ style="width:3.13889in;height:1.22222in" />
 
 fig 12a
 
-## Section 10.3: Acetals and ketals
+##  10.3: Acetals and ketals
 
 ### 10.3A: Overview
 
@@ -680,7 +680,7 @@ Explain. (Hint: think about intermolecular interactions.)
 **  
 **
 
-## Section 10.4: *N*-glycosidic bonds
+##  10.4: *N*-glycosidic bonds
 
 We have just seen that when a second alcohol attacks a hemiacetal or
 hemiketal, the result is an acetal or ketal, with the glycosidic bonds
@@ -777,7 +777,7 @@ inversion of configuration of the anomeric carbon.
 **  
 **
 
-## Section 10.5: Imines and iminium ions
+##  10.5: Imines and iminium ions
 
 The electrophilic carbon atom of aldehydes and ketones can be the target
 of nucleophilic attack by amines as well as alcohols. The end result of
@@ -918,7 +918,7 @@ from the proline degradation pathway.
 <img src="media/image142.png"
 style="width:1.71319in;height:0.76875in" />
 
-## Section 10.6: A look ahead: addition of carbon and hydride nucleophiles to carbonyls
+##  10.6: A look ahead: addition of carbon and hydride nucleophiles to carbonyls
 
 We have seen in this chapter a number of reactions in which oxygen and
 nitrogen nucleophiles add to carbonyl groups. Other nucleophiles are
