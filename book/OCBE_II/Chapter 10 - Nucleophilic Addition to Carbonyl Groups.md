@@ -10,7 +10,7 @@ It's possible that the fuel for the car you drive thirty years from now
 will come from the back end of a panda. Not literally, of course – but
 it just might turn out that future biofuel technology will be derived in
 part from the stuff that workers have to clean out of the enclosure
-housing Ya Ya and Le Le, the two resident pandas at the Memphis Zoo in .
+housing Ya Ya and Le Le, the two resident pandas at the Memphis Zoo in Tennessee.
 At least, that's the hope of Dr. Ashli Brown, a biochemistry professor
 at Tennessee State University.
 
