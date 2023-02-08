@@ -487,9 +487,9 @@ been proposed for these reactions - in fact, two other possible
 mechanisms have been suggested. In an alternative two-step mechanistic
 model, the nucleophile could attack first, forming
 
-a pentavalent, trigonal bipyramidal *intermedia/OCBE_IIte* (as apposed to a
+a pentavalent, trigonal bipyramidal *intermediate* (as apposed to a
 pentavalent *transition state*). The reaction is completed when the
-leaving group is expelled. The intermedia/OCBE_IIte species would occupy an
+leaving group is expelled. The intermediate species would occupy an
 energy *valley* between the two transition states.
 
 **  
@@ -503,9 +503,9 @@ fig 17e
 
 This is often referred to as an **'addition-elimination**' mechanism -
 the nucleophile *adds* to the phosphate first, forming a pentavalent
-intermedia/OCBE_IIte, and then the leaving group is *eliminated*.
+intermediate, and then the leaving group is *eliminated*.
 
-An addition-elimination mechanism with a pentavalent intermedia/OCBE_IIte is
+An addition-elimination mechanism with a pentavalent intermediate is
 *not* possible for an S<sub>N</sub>2 reaction at a carbon center,
 because carbon, as a second-row element, does not have any *d* orbitals
 and cannot form five bonds. Phosphorus, on the other hand, is a
@@ -519,7 +519,7 @@ central phosphorus.
 fig 17f
 
 The phosphorus atom in PCl<sub>5</sub> (and in the hypothetical
-pentavalent intermedia/OCBE_IIte pictured above) is considered to be
+pentavalent intermediate pictured above) is considered to be
 **sp<sup>3</sup>d** **hybridized**:
 
 <img src="media/image27.png" style="width:4.94444in;height:1.11111in" />
@@ -529,8 +529,8 @@ fig 17g
 There is a third possibility: the reaction could proceed in an
 S<sub>N</sub>1-like manner: in other words, **elimination-addition**. In
 this model, the phosphorus-leaving group bond breaks first, resulting in
-a **metaphosphate** intermedia/OCBE_IIte. This intermedia/OCBE_IIte, which corresponds
-to the carbocation intermedia/OCBE_IIte in an S<sub>N</sub>1 reaction and like a
+a **metaphosphate** intermediate. This intermediate, which corresponds
+to the carbocation intermediate in an S<sub>N</sub>1 reaction and like a
 carbocation has trigonal planar geometry, is then attacked by the
 nucleophile to form the reaction product.
 
@@ -913,7 +913,7 @@ the other half of the regulatory 'on-off switch' that we discussed
 earlier in the context of protein kinases. In the first step, the
 phosphate group is directly donated to a cysteine side chain in the
 phosphatase enzyme's active site. In the second step, the
-phosphocysteine intermedia/OCBE_IIte is cleaved by water to form inorganic
+phosphocysteine intermediate is cleaved by water to form inorganic
 phosphate and regenerate the free cysteine in the active site.
 
 Indirect phosphatase reaction:
@@ -998,7 +998,7 @@ concept of entropy at this point). RNA nucleotides, unlike the
 2' carbon. The 2' hydroxyl group is right next to the electrophilic
 phosphorus atom, poised in a good position to make a nucleophilic
 attack, breaking the RNA chain and forming a cyclic phosphate diester
-intermedia/OCBE_IIte (see figure below).
+intermediate (see figure below).
 
 <img src="media/image61.png" style="width:5in;height:2.12986in" />
 
@@ -1325,9 +1325,9 @@ phosphate transfer reaction, given the starting compounds and products.
 
 Given information about the existence of a covalently linked
 enzyme-substrate complex in an enzyme mechanism, you should be able to
-propose a likely mechanism that accounts for such an intermedia/OCBE_IIte. For
+propose a likely mechanism that accounts for such an intermediate. For
 example, after being told that the phosphotyrosine phosphatase reaction
-involves a phosphocysteine intermedia/OCBE_IIte, you should be able to propose a
+involves a phosphocysteine intermediate, you should be able to propose a
 mechanism.
 
 ## Problems
@@ -1368,7 +1368,7 @@ ribonucleotide biosynthesis (EC 6.3.3.1):
 
 a\) The carboxylate group on the amino acid valine is activated in an
 early step in the biosynthesis of the antibiotic penicillin. Predict the
-product of this reaction, and draw the likely intermedia/OCBE_IIte of the
+product of this reaction, and draw the likely intermediate of the
 phosphate group transfer reaction.
 
 <img src="media/image77.png" style="width:1.87986in;height:1.05556in" />
@@ -1421,7 +1421,7 @@ ends up: this should indicate to you how the two mechanisms could be
 **P9.9:** Glucose-6-phosphate is dephosphorylated to glucose in the last
 step of the gluconeogenesis pathway (EC 5.3.1.9). The reaction is not a
 direct hydrolysis: like the phosphotyrosine phosphatase reaction we saw
-in this chapter it involves formation of a phosphoenzyme intermedia/OCBE_IIte,
+in this chapter it involves formation of a phosphoenzyme intermediate,
 but in this case the enzyme residue acting as the initial phosphate
 acceptor is an active site *histidine* rather than an asparate. Given
 this information, propose a likely mechanism for the reaction.
@@ -1446,7 +1446,7 @@ structures of compounds A, B and C. (EC 2.7.7.60, EC 2.7.1.148, EC
 <img src="media/image83.png" style="width:5.38889in;height:1.12986in" />
 
 **P9.12**: The reaction below shows the synthesis of glucose-UDP, an
-important intermedia/OCBE_IIte in carbohydrate biosynthesis. Notice that UTP
+important intermediate in carbohydrate biosynthesis. Notice that UTP
 (instead of ATP) is the phosphate donor. Identify the by-product denoted
 below by a question mark.
 
@@ -1465,7 +1465,7 @@ Bio*l. **1999**, *286*, 1507
 
 **P9.14**: The gluconeogenesis (sugar-building) pathway enzyme
 glucose-6-phosphatase catalyzes an *indirect* phosphate hydrolysis
-reaction with a phosphohistidine intermedia/OCBE_IIte ('indirect hydrolysis' in
+reaction with a phosphohistidine intermediate ('indirect hydrolysis' in
 this context means that a water molecule does *not* directly attack
 glucose-6-phosphate).
 
