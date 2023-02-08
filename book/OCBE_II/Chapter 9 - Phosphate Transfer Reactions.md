@@ -801,7 +801,7 @@ mechanism from the one above. Instead of sequentially transferring two
 phosphates from two ATP donors, the alternate mechanism occurs in a
 single step: the nucleophilic acceptor molecule attacks the β-phosphate
 of ATP, rather than the γ-phosphate. After formation of the trigonal
-bipyramidal intermedia/OCBE_IIte, it is AMP (not ADP) which is expelled, and
+bipyramidal intermedia, it is AMP (not ADP) which is expelled, and
 what started out as the β and γ phosphates of ATP both remain with the
 acceptor.
 
