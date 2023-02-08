@@ -294,7 +294,7 @@ laboratory, however, hemiacetal and hemiketal formation usually takes
 place in the presence of a strong acid. The acid catalyzes the reaction
 by protonating the carbonyl oxygen, thus increasing the electrophilicity
 of the carbonyl carbon. Notice in the mechanism below that highly acidic
-intermedia/OCBE_IItes are drawn which would be unreasonable to propose for the
+intermediates are drawn which would be unreasonable to propose for the
 corresponding biochemical mechanisms occurring at physiological pH.
 
 Acid-catalyzed hemiacetal formation (non-biological):
@@ -458,7 +458,7 @@ The role of the acid catalyst is to protonate the OH group of the
 acetal, thus making it a good leaving group (water). Notice something
 important here***: the conversion of a hemiacetal to an acetal is simply
 an S<sub>N</sub>1 reaction, with an alcohol nucleophile and water
-leaving group.*** The carbocation intermedia/OCBE_IIte in this S<sub>N</sub>1
+leaving group.*** The carbocation intermediate in this S<sub>N</sub>1
 mechanism is stabilized by resonance due to the oxygen atom already
 bound to the electrophilic carbon.
 
@@ -585,7 +585,7 @@ style="width:5.66667in;height:3.87986in" />
 fig 19a
 
 The UDP group on glucose-UDP then leaves (step 1 below), forming a
-resonance-stabilized carbocation intermedia/OCBE_IIte. Attack by the alcohol
+resonance-stabilized carbocation intermediate. Attack by the alcohol
 group on the growing cellulose chain in step 2 forms the glycosidic
 (acetal) bond. Note the inversion of stereochemistry. *Mol. Plant*
 **2011**, *4*, 199
@@ -608,7 +608,7 @@ style="width:5.22222in;height:2.35208in" />
 fig 20
 
 In step 1, an alcohol is protonated by a nearby acid group as it breaks
-away to form a resonance-stabilized carbocation intermedia/OCBE_IIte. The
+away to form a resonance-stabilized carbocation intermediate. The
 carbocation is attacked by a nucleophilic water molecule in step 2 to
 form a hemiacetal.
 
@@ -720,7 +720,7 @@ in solution takes the form of a cyclic hemiacetal. The critical
 *N*-glycosidic bond is established through substitution of
 NH<sub>3</sub> for OH at the anomeric carbon of the ribose. The anomeric
 OH group is first activated (step A below) to form an activated
-intermedia/OCBE_IIte called phosphoribosylpyrophosphate (PRPP). The inorganic
+intermediate called phosphoribosylpyrophosphate (PRPP). The inorganic
 pyrophosphate then leaves to generate a resonance-stabilized carbocation
 (step 1) which is attacked by a nucleophilic ammonia in step 2 to
 establish the *N*-glycosidic bond.
@@ -904,7 +904,7 @@ fig 28b
 
 <u>Exercise 10.16</u>:
 
-a\) The metabolic intermedia/OCBE_IIte shown below undergoes an intramolecular
+a\) The metabolic intermediate shown below undergoes an intramolecular
 imine formation as a step in the biosynthesis of lysine (EC 4.3.3.7).
 Draw the product of this intramolecular imine formation step.
 
@@ -967,7 +967,7 @@ formation and hydrolysis of an imine
 
 transimination
 
-Explain how the carbocation intermedia/OCBE_IItes in glycosidic bond formation
+Explain how the carbocation intermediates in glycosidic bond formation
 and hydrolysis reactions are stabilized by resonance
 
 Explain the stereochemical considerations of a nucleophilic addition to
@@ -994,7 +994,7 @@ below.
 <img src="media/image146.png"
 style="width:1.22222in;height:1.22222in" />
 
-**P10.3:** A downstream intermedia/OCBE_IIte in the lysine degradation pathway
+**P10.3:** A downstream intermediate in the lysine degradation pathway
 undergoes imine hydrolysis to release two amino acid products (EC
 1.5.1.1). Draw a mechanism for this hydrolysis reaction, and show the
 structures of the two products formed.
@@ -1012,7 +1012,7 @@ lactose intolerant do not produce enough lactase - the enzyme that
 hydrolyzes the glycosidic bond linking the two monosaccharides - to be
 able to fully digest dairy products.
 
-a\) Draw a likely stabilized carbocation intermedia/OCBE_IIte in the hydrolysis
+a\) Draw a likely stabilized carbocation intermediate in the hydrolysis
 reaction catalyzed by lactase.
 
 b\) Draw, in the chair conformation, the structure of what you predict
@@ -1060,7 +1060,7 @@ strong acid, which serves to activate the hemiacetal. Predict the
 product of the following acetal forming reaction, and propose a
 reasonable mechanism for the reaction. Remember that the reaction is
 carried out under acidic conditions, which means that the protonation
-state of intermedia/OCBE_IItes will be different than biochemical reactions
+state of intermediates will be different than biochemical reactions
 occurring at neutral pH.
 
 <img src="media/image152.png" style="width:2.75in;height:0.85208in" />
@@ -1144,7 +1144,7 @@ style="width:4.02778in;height:3.11111in" />
 
 **P10.14:** Propose reasonable mechanisms for the following steps from
 the histidine biosynthesis pathway, and predict the structure of
-intermedia/OCBE_IIte A (which is open-chain, not cyclic).
+intermediate A (which is open-chain, not cyclic).
 
 <img src="media/image160.png"
 style="width:5.05556in;height:2.29653in" />
@@ -1152,7 +1152,7 @@ style="width:5.05556in;height:2.29653in" />
 ***The last several problems are quite challenging!***
 
 **P10.15:** Propose a likely mechanism for the synthesis of glucosamine
-6-phosphate from fructose-6-phosphate. One of several intermedia/OCBE_IItes is
+6-phosphate from fructose-6-phosphate. One of several intermediates is
 shown. (EC 2.6.1.16.)
 
 <img src="media/image161.png" style="width:4.75in;height:3.18542in" />
@@ -1167,7 +1167,7 @@ However, when the inactivated enzyme is analyzed, an active site
 histidine rather than the serine, is found to be covalently modified by
 the inhibitor. The structure of the modified histidine is shown below.
 The mechanism of inactivation is thought to involve an epoxide
-intermedia/OCBE_IIte - with this in mind, propose a reasonable mechanism of
+intermediate - with this in mind, propose a reasonable mechanism of
 inactivation.
 
 <img src="media/image162.png"
@@ -1193,7 +1193,7 @@ doublet).
 
 **C11.4:** Arginine deaminase, an enzyme in the arginine degradation
 pathway, catalyzes the transformation of (L)-arginine to (L)-citrulline
-via a covalent substrate-cysteine intermedia/OCBE_IIte.
+via a covalent substrate-cysteine intermediate.
 
 <img src="media/image164.png"
 style="width:4.69444in;height:2.79167in" />
