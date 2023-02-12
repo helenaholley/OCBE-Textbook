@@ -191,7 +191,7 @@ positive charge.
 However the bond polarity is depicted, the end result is that the
 carbonyl carbon is electron-poor - in other words, it is an
 electrophile. In addition, the trigonal planar geometry means that the
-carbonyl group is unhindered). Thus, it is an excellent target for
+carbonyl group is unhindered. Thus, it is an excellent target for
 attack by an electron-rich nucleophilic group, a mechanistic step called
 **nucleophilic addition**:
 
