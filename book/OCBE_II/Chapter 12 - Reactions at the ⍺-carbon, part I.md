@@ -38,15 +38,15 @@ An American journalist named Peter Gorman, who reports having had the
 frog-skin paste administered in the same manner during a visit to a
 Matses village, describes what happens next:
 
-> Instantly my body began to heat up. In seconds I was burning from the
-> inside . . . I began to sweat. My blood began to race. My heart
-> pounded. I became acutely aware of every vein and artery in my body
-> and could feel them opening to allow for the fantastic pulse of my
-> blood. My stomach cramped and I vomited violently. I lost control of
-> my bodily functions. . . (and) fell to the ground. Then, unexpectedly,
-> I found myself growling and moving about on all fours. I felt as
-> though animals were passing through me, trying to express themselves
-> through my body.
+ Instantly my body began to heat up. In seconds I was burning from the
+ inside . . . I began to sweat. My blood began to race. My heart
+ pounded. I became acutely aware of every vein and artery in my body
+ and could feel them opening to allow for the fantastic pulse of my
+ blood. My stomach cramped and I vomited violently. I lost control of
+ my bodily functions. . . (and) fell to the ground. Then, unexpectedly,
+ I found myself growling and moving about on all fours. I felt as
+ though animals were passing through me, trying to express themselves
+ through my body.
 
 After the immediate violent effects pass, the Matses hunter is carried
 by his friends to a hammock to recover. After sleeping for a day, he
@@ -278,8 +278,8 @@ triose-phosphate isomerase.
 
 fig 10
 
-> <u>Exercise 12.1:</u> draw the ene-diol intermediate in the
-> phosphoglucose isomerase reaction.
+ <u>Exercise 12.1:</u> draw the ene-diol intermediate in the
+ phosphoglucose isomerase reaction.
 
 ### 12.2B: Stereoisomerization at the α-carbon
 
@@ -346,8 +346,8 @@ show an enolate intermediate and specify stereochemistry throughout.
 starting with each of the substrates shown. Hint - carbons next to imine
 groups can also be considered α-carbons!
 
-> <img src="media/image287.png"
-> style="width:3.63889in;height:0.90764in" />
+ <img src="media/image287.png"
+ style="width:3.63889in;height:0.90764in" />
 
 fig 13
 
@@ -391,14 +391,14 @@ style="width:5.60208in;height:2.47222in" />
 
 fig 14
 
-> <u>Exercise 12.4:</u> Consider the structures of the substrate and
-> product of the isomerization reaction above. What two factors
-> contribute to the thermodynamic 'driving force' for the
-> transformation?
->
-> <u>Exercise 12.5</u>: The reaction below is part of the biosynthetic
-> pathway for menthol. Suggest a mechanism that includes an enolate
-> intermediate.
+ <u>Exercise 12.4:</u> Consider the structures of the substrate and
+ product of the isomerization reaction above. What two factors
+ contribute to the thermodynamic 'driving force' for the
+ transformation?
+
+ <u>Exercise 12.5</u>: The reaction below is part of the biosynthetic
+ pathway for menthol. Suggest a mechanism that includes an enolate
+ intermediate.
 
 <img src="media/image291.png"
 style="width:2.86111in;height:1.13889in" />
@@ -660,8 +660,8 @@ fig 25
 <u>Exercise 12.8</u>: Predict the products of a retro-aldol reaction
 with the given substrate.
 
-> <img src="media/image306.png"
-> style="width:2.26875in;height:0.57431in" />
+ <img src="media/image306.png"
+ style="width:2.26875in;height:0.57431in" />
 
 fig 27
 
@@ -810,17 +810,17 @@ Understand the 3D bonding arrangement of an enolate ion
 Be able to recognize and draw reasonable mechanisms for the following
 reaction types:
 
-> tautomerizations: keto-enol, imine-enamine
->
-> racemization/epimerization
->
-> carbonyl isomerization (changing position of a carbonyl group)
->
-> alkene isomerization (changing position of an alkene relative to
-> carbonyl)
->
-> aldol addition, retro-aldol cleavage (both enolate intermediate and
-> enamine intermediate mechanisms)
+ tautomerizations: keto-enol, imine-enamine
+
+ racemization/epimerization
+
+ carbonyl isomerization (changing position of a carbonyl group)
+
+ alkene isomerization (changing position of an alkene relative to
+ carbonyl)
+
+ aldol addition, retro-aldol cleavage (both enolate intermediate and
+ enamine intermediate mechanisms)
 
 Be able to draw a mechanism for a laboratory alkylation reaction at the
 α-carbon of a ketone or aldehyde. Understand the difference between

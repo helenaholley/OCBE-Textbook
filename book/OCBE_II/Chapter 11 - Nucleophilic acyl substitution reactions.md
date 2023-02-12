@@ -5,39 +5,39 @@ style="width:1.76573in;height:3.35048in" />
 
 ## Introduction
 
-> The 26th of *July*, Notice is given to the Sheriffs, that in the
-> Street of *Lescalle*, a Part of the old Town inhabited only by poor
-> People, Fifteen Persons are suddenly fallen sick: They dispatch
-> thither Physicians and Surgeons; they examine into the Distemper, and
-> make Report; some, that 'tis a Malignant Fever; others, a contagious
-> or pestilential Fever, occasioned by bad Food, which Want had long
-> forced those poor Creatures to live upon . . .
->
-> The 27th, Eight of those Sick dye; the Sheriffs themselves go to their
-> Houses to cause them to be searched; Buboes \[*swelling of the lymph
-> nodes*\] are found on Two of them: The Physicians and Surgeons still
-> hold the same Language, and impute the Cause of the Distemper to
-> unwholsome Food. Notwithstanding which, as soon as Night comes, M.
-> *Moustier* repairs to the Place, sends for Servants from the
-> Infirmaries, makes them willingly or by Force, take up the Bodies,
-> with all due Precautions; they are carried to the Infirmaries, where
-> they are buried with Lime; and all the rest of the Night he causes the
-> remaining Sick, and all those of their Houses, to be removed to the
-> Infirmaries.
->
-> The 28th, very early in the Morning, Search is made every where for
-> those who had Communication with them, in order to confine them: Other
-> Persons in the same Street fall sick, and some of those who first
-> sicken'd dye. ..
->
-> The People who love to deceive themselves, and will have it absolutely
-> not to be the Plague, urge a Hundred false Reasons on that Side. Would
-> the Plague, say they, attack none but such poor People? Would it
-> operate so slowly?
->
-> Let them have but a few Days Patience, and they will see all attacked
-> without Distinction, with the swiftest Rage, and the most dreadful
-> Havock, that ever was heard of.
+ The 26th of *July*, Notice is given to the Sheriffs, that in the
+ Street of *Lescalle*, a Part of the old Town inhabited only by poor
+ People, Fifteen Persons are suddenly fallen sick: They dispatch
+ thither Physicians and Surgeons; they examine into the Distemper, and
+ make Report; some, that 'tis a Malignant Fever; others, a contagious
+ or pestilential Fever, occasioned by bad Food, which Want had long
+ forced those poor Creatures to live upon . . .
+
+ The 27th, Eight of those Sick dye; the Sheriffs themselves go to their
+ Houses to cause them to be searched; Buboes \[*swelling of the lymph
+ nodes*\] are found on Two of them: The Physicians and Surgeons still
+ hold the same Language, and impute the Cause of the Distemper to
+ unwholsome Food. Notwithstanding which, as soon as Night comes, M.
+ *Moustier* repairs to the Place, sends for Servants from the
+ Infirmaries, makes them willingly or by Force, take up the Bodies,
+ with all due Precautions; they are carried to the Infirmaries, where
+ they are buried with Lime; and all the rest of the Night he causes the
+ remaining Sick, and all those of their Houses, to be removed to the
+ Infirmaries.
+
+ The 28th, very early in the Morning, Search is made every where for
+ those who had Communication with them, in order to confine them: Other
+ Persons in the same Street fall sick, and some of those who first
+ sicken'd dye. ..
+
+ The People who love to deceive themselves, and will have it absolutely
+ not to be the Plague, urge a Hundred false Reasons on that Side. Would
+ the Plague, say they, attack none but such poor People? Would it
+ operate so slowly?
+
+ Let them have but a few Days Patience, and they will see all attacked
+ without Distinction, with the swiftest Rage, and the most dreadful
+ Havock, that ever was heard of.
 
 (source: Gutenberg Project
 
@@ -579,35 +579,35 @@ style="width:5.31111in;height:2.86667in" />
 
 fig 29
 
-> <u>Exercise 11.5</u>: The pyruvate dehydrogenase complex (EC 1.2.4.1)
-> catalyzes one of the most central of all central metabolism reactions,
-> the conversion of pyruvate to acetyl-CoA, which links the gycolytic
-> pathway to the citric acid (Krebs) cycle. The reaction is quite
-> complex, and we are not yet equipped to follow it through from start
-> to finish (we will finally be ready to do this in section 17.3). The
-> final step, however, we can understand: it is a
-> transthioesterification, involving a dithiol coenzyme called
-> dihydrolipoamide and coenzyme A. Given the information below, draw out
-> a reasonable mechanism for the reaction.
->
-> <img src="media/image201.png"
-> style="width:3.51111in;height:0.86667in" />
->
-> fig 31
->
-> <u>Exercise 11.6:</u> Ubiquitin is a protein which plays a key role in
-> many cellular processes by reversibly attaching to other proteins,
-> thus altering or regulating their function. Recently, a team of
-> researchers uncovered details of the mechanism by which ubiquitin
-> (abbreviated Ub) is transferred by the ubiquitin activating enzyme
-> (abbreviated E1) to target proteins. In the first part of this
-> process, the carboxy terminus of ubiquitin is linked to a cysteine
-> side chain on E1, as shown in the incomplete reaction sequence below.
-> Complete the figure by drawing the structures of species A and B.
->
-> <img src="media/image202.png" style="width:4.7in;height:1.48889in" />
->
-> fig 31b
+ <u>Exercise 11.5</u>: The pyruvate dehydrogenase complex (EC 1.2.4.1)
+ catalyzes one of the most central of all central metabolism reactions,
+ the conversion of pyruvate to acetyl-CoA, which links the gycolytic
+ pathway to the citric acid (Krebs) cycle. The reaction is quite
+ complex, and we are not yet equipped to follow it through from start
+ to finish (we will finally be ready to do this in section 17.3). The
+ final step, however, we can understand: it is a
+ transthioesterification, involving a dithiol coenzyme called
+ dihydrolipoamide and coenzyme A. Given the information below, draw out
+ a reasonable mechanism for the reaction.
+
+ <img src="media/image201.png"
+ style="width:3.51111in;height:0.86667in" />
+
+ fig 31
+
+ <u>Exercise 11.6:</u> Ubiquitin is a protein which plays a key role in
+ many cellular processes by reversibly attaching to other proteins,
+ thus altering or regulating their function. Recently, a team of
+ researchers uncovered details of the mechanism by which ubiquitin
+ (abbreviated Ub) is transferred by the ubiquitin activating enzyme
+ (abbreviated E1) to target proteins. In the first part of this
+ process, the carboxy terminus of ubiquitin is linked to a cysteine
+ side chain on E1, as shown in the incomplete reaction sequence below.
+ Complete the figure by drawing the structures of species A and B.
+
+ <img src="media/image202.png" style="width:4.7in;height:1.48889in" />
+
+ fig 31b
 
 ### 11.5B: Formation of esters
 
@@ -789,13 +789,13 @@ style="width:3.77778in;height:1.81111in" />
 
 fig 21a
 
-> a\) Identify the acetyl group that has been transferred to apramycin,
-> (and thus inactivating it).
->
-> b\) What functional group acts as an acetyl group *donor*? What
-> functional group acts as an acetyl group?
->
-> c\) What is the coproduct of the reaction?
+ a\) Identify the acetyl group that has been transferred to apramycin,
+ (and thus inactivating it).
+
+ b\) What functional group acts as an acetyl group *donor*? What
+ functional group acts as an acetyl group?
+
+ c\) What is the coproduct of the reaction?
 
 ##  11.6: Hydrolysis of thioesters, esters, and amides
 
@@ -1220,7 +1220,7 @@ products are viable motor fuels.
 
 <img src="media/image239.png" style="width:6in;height:1.83333in" />
 
-> fig 36
+ fig 36
 
 <u>Exercise 11.14</u>: Draw structures of the carboxylic acid and
 alcohol starting materials that could be used to synthesize the fragrant
@@ -1473,41 +1473,41 @@ generalized example.
 Know the trends in relative reactivity for the carboxylic acid
 derivatives:
 
-> in a biological context (acyl phosphates and thioesters as activated
-> acyl groups)
->
-> in a laboratory context (acid chlorides and carboxylic acid anhydrides
-> as activated acyl groups)
+ in a biological context (acyl phosphates and thioesters as activated
+ acyl groups)
+
+ in a laboratory context (acid chlorides and carboxylic acid anhydrides
+ as activated acyl groups)
 
 Recognize and understand the most important types of nucleophilic acyl
 substitution reactions in biology:
 
-> How a carboxylate group, which is unreactive to nucleophilic acyl
-> substitution reactions, is activated in the cell by ATP-dependent
-> phosphorylation to either acyl monophosphate or acyl-AMP.
->
-> Conversion of an acyl phosphate to a thioester, a (carboxylic) ester,
-> or an amide.
->
-> Transthioesterification, esterification, and transesterification
-> reactions.
->
-> Conversion of a thioester or ester to an amide
->
-> Hydrolysis of a thioester, a (carboxylic) ester, or an amide to a
-> carboxylate.
+ How a carboxylate group, which is unreactive to nucleophilic acyl
+ substitution reactions, is activated in the cell by ATP-dependent
+ phosphorylation to either acyl monophosphate or acyl-AMP.
+
+ Conversion of an acyl phosphate to a thioester, a (carboxylic) ester,
+ or an amide.
+
+ Transthioesterification, esterification, and transesterification
+ reactions.
+
+ Conversion of a thioester or ester to an amide
+
+ Hydrolysis of a thioester, a (carboxylic) ester, or an amide to a
+ carboxylate.
 
 Understand the energetics of the above reactions:
 
-> Carboxylate to acyl phosphate is 'uphill' energetically, paid for by
-> coupling to hydrolysis of one ATP
->
-> Other conversions above are 'downhill': it is unlikely, for example,
-> to see a direct conversion of an amide to an ester.
->
-> (Notable exception: the lactam (cyclic amide) group in penicillin is
-> very reactive due to ring strain, and forms an ester with an active
-> site serine residue in the target protein)
+ Carboxylate to acyl phosphate is 'uphill' energetically, paid for by
+ coupling to hydrolysis of one ATP
+
+ Other conversions above are 'downhill': it is unlikely, for example,
+ to see a direct conversion of an amide to an ester.
+
+ (Notable exception: the lactam (cyclic amide) group in penicillin is
+ very reactive due to ring strain, and forms an ester with an active
+ site serine residue in the target protein)
 
 You need not memorize all of the details of peptide bond formation on
 the ribosome, but you should be able to follow the description in
@@ -1518,8 +1518,8 @@ Be able to draw complete mechanisms for the following lab reactions:
 
 acid-catalyzed esterification of a carboxylic acid
 
-> saponification (base-catalyzed hydrolysis of an ester), application to
-> soap-making
+ saponification (base-catalyzed hydrolysis of an ester), application to
+ soap-making
 
 base-catalyzed transesterification, application to biodiesel production
 
@@ -1579,8 +1579,8 @@ inner mitochondrial membrane, they are temporarily transferred from
 Coenzyme A to a transport molecule called carnitine, to which they are
 linked by an ester group (EC 2.3.1.21).
 
-> <img src="media/image257.png"
-> style="width:1.65556in;height:0.81111in" />
+ <img src="media/image257.png"
+ style="width:1.65556in;height:0.81111in" />
 
 Draw the structure of fatty acyl carnitine (use R to denote the
 hydrocarbon chain of the fatty acid)

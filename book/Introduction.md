@@ -62,7 +62,7 @@ http://facultypages.morris.umn.edu/\~soderbt/textbook_website.htm
 An online version is accessible as part of the **Chemwiki** project at
 the University of California, Davis:
 
-> http://chemwiki.ucdavis.edu/Organic_Chemistry/Organic_Chemistry_With_a\_Biological_Emphasis.
+ http://chemwiki.ucdavis.edu/Organic_Chemistry/Organic_Chemistry_With_a\_Biological_Emphasis.
 
 This online version contains some additional hyperlinks to animations,
 interactive 3D figures, and online lectures that you may find useful.

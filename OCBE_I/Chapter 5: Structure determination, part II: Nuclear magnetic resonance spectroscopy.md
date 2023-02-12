@@ -358,10 +358,10 @@ nonequivalent.)*
 <u>Exercise 5.2:</u> How many sets of equivalent protons do the
 following molecules contain?
 
-> <img src="media/image421.png"
-> style="width:4.91667in;height:3.29653in" />
->
-> fig 7
+ <img src="media/image421.png"
+ style="width:4.91667in;height:3.29653in" />
+
+ fig 7
 
 ## Section 5.3: The <sup>1</sup>H-NMR experiment
 
@@ -789,8 +789,8 @@ compound \[18\] annulene has two peaks, at 8.9 ppm and -1.8 ppm (a
 *negative* chemical shift, upfield of TMS!) with an integration ratio of
 2:1. Explain the unusual chemical shift of the latter peak.
 
-> <img src="media/image437.png"
-> style="width:1.29653in;height:1.61111in" />
+ <img src="media/image437.png"
+ style="width:1.29653in;height:1.61111in" />
 
 ## Section 5.5: Spin-spin coupling
 
@@ -1272,22 +1272,22 @@ elucidation of larger, more complex structures.
 methylbenzene (common name toluene) and methyl methacrylate. Match the
 spectra to the correct structure, and make peak assignments.
 
-> <img src="media/image456.png"
-> style="width:2.46319in;height:1.11111in" />
->
-> fig 35
->
-> Spectrum A:
->
-> <img src="media/image457.png" style="width:5.362in;height:3.30556in" />
->
-> fig 33
->
-> Spetrum B:
->
-> <img src="media/image458.png" style="width:5.362in;height:3.13693in" />
->
-> fig 34
+ <img src="media/image456.png"
+ style="width:2.46319in;height:1.11111in" />
+
+ fig 35
+
+ Spectrum A:
+
+ <img src="media/image457.png" style="width:5.362in;height:3.30556in" />
+
+ fig 33
+
+ Spetrum B:
+
+ <img src="media/image458.png" style="width:5.362in;height:3.13693in" />
+
+ fig 34
 
 <u>Exercise 5.18</u>: <sup>13</sup>C-NMR data for some common
 biomolecules are shown below (data is from the Aldrich Library of
@@ -1777,8 +1777,8 @@ corresponding to H<sub>b</sub> in the structure below, using approximate
 coupling constants. What would you call the splitting pattern for the
 H<sub>b</sub> signal in this example?
 
-> <img src="media/image475.png"
-> style="width:1.62986in;height:0.77778in" />
+ <img src="media/image475.png"
+ style="width:1.62986in;height:0.77778in" />
 
 fig 49
 

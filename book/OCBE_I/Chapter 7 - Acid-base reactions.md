@@ -556,9 +556,9 @@ should be somewhere in the order of 10<sup>5</sup>.
 <u>Exercise 7.4</u> Show the products of the following acid-base
 reactions, and roughly estimate the value of Keq.
 
-> <img src="media/image554.png" style="width:3.5in;height:3.45556in" />
->
-> fig 14
+ <img src="media/image554.png" style="width:3.5in;height:3.45556in" />
+
+ fig 14
 
 ### 7.2C: Organic molecules in buffered solution: the Henderson-Hasselbalch equation
 
@@ -985,7 +985,7 @@ enzyme active sites.
 resonance contributor), and on your drawing indicate with arrows all of
 the atoms to which the negative charge can be delocalized by resonance.
 
-> <img src="media/image570.png" style="width:1.25in;height:0.88889in" />
+ <img src="media/image570.png" style="width:1.25in;height:0.88889in" />
 
 fig 30
 
@@ -1172,7 +1172,7 @@ nitrogen atom of pyridine occupy an *sp<sup>2</sup>*-hybrid orbital, and
 are *not* part of the aromatic sextet - thus, they are available for
 bonding with a proton.
 
-> <img src="media/image583.png" style="width:2.5in;height:1.52778in" />
+ <img src="media/image583.png" style="width:2.5in;height:1.52778in" />
 
 fig 42
 
@@ -1329,7 +1329,7 @@ three example reactions are previewed below. Reaction A is from fatty
 acid oxidation, while reactions B and C are both part of carbohydrate
 metabolism.
 
-> <img src="media/image597.png" style="width:5.25in;height:4.29653in" />
+ <img src="media/image597.png" style="width:5.25in;height:4.29653in" />
 
 fig 52
 
@@ -1627,8 +1627,8 @@ this ion-dipole interaction effects the acidity of the α-protons of
 dihydroxyacetone phosphate (DHAP), an intermediate compound in the
 glycolysis pathway.
 
-> <img src="media/image614.png"
-> style="width:1.49097in;height:1.49097in" />
+ <img src="media/image614.png"
+ style="width:1.49097in;height:1.49097in" />
 
 fig 62
 
@@ -1673,11 +1673,11 @@ a stronger acid.
 
 Know that:
 
-> For a given pair of acids, the stronger acid will have the weaker
-> conjugate base.
->
-> For a given pair of basic compounds, the stronger base will have the
-> weaker conjugate acid.
+ For a given pair of acids, the stronger acid will have the weaker
+ conjugate base.
+
+ For a given pair of basic compounds, the stronger base will have the
+ weaker conjugate acid.
 
 Be able to identify the most acidic/basic groups on a polyfunctional
 molecule.
@@ -1696,11 +1696,11 @@ stable (weaker) the conjugate base, the stronger the acid.
 Be able to compare the acidity or basicity of compounds based on
 **periodic trends**:
 
-> acidity increases left to right on the table, so alcohols are more
-> acidic than amines
->
-> acidity increases top to bottom on the table, so a thiol is more
-> acidic than an alcohol.
+ acidity increases left to right on the table, so alcohols are more
+ acidic than amines
+
+ acidity increases top to bottom on the table, so a thiol is more
+ acidic than an alcohol.
 
 Be able to compare the acidity or basicity of compounds based on
 protonation state: H<sub>3</sub>O<sup>+</sup> is more acidic than

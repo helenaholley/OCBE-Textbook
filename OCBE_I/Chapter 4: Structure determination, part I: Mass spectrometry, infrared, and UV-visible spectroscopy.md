@@ -103,19 +103,19 @@ questions about an organic molecule:
 
 <u>Chapter 4:</u>
 
-> Mass spectrometry (MS): *What is the atomic weight of the molecule and
-> its common fragments?*
->
-> Infrared (IR) spectroscopy: *what functional groups does the molecule
-> contain?*
->
-> Ultraviolet-visible (UV-Vis) spectroscopy: *What is the nature of
-> conjugated π-bonding systems in the molecule?*
+ Mass spectrometry (MS): *What is the atomic weight of the molecule and
+ its common fragments?*
+
+ Infrared (IR) spectroscopy: *what functional groups does the molecule
+ contain?*
+
+ Ultraviolet-visible (UV-Vis) spectroscopy: *What is the nature of
+ conjugated π-bonding systems in the molecule?*
 
 <u>Chapter 5:</u>
 
-> Nuclear magnetic resonance spectroscopy (NMR): *What is the overall
-> bonding framework of the molecule?*
+ Nuclear magnetic resonance spectroscopy (NMR): *What is the overall
+ bonding framework of the molecule?*
 
 ## Section 4.1: Mass Spectrometry
 
@@ -129,18 +129,18 @@ of a molecule, or of different fragments of that molecule.
 There are many different types of MS instruments, but they all have the
 same three essential components:
 
-> 1\) First, there is an ionization source, where the molecule is given
-> a positive electrical charge, either by removing an electron or by
-> adding a proton.
->
-> 2\) Depending on the ionization method used, the ionized molecule may
-> or may not break apart into a population of smaller fragments
->
-> 3\) Next in line there is a mass analyzer, where the
-> positively-charged fragments are separated according to mass.
->
-> 4\) Finally, there is a detector, which detects and quantifies the
-> separated ions.
+ 1\) First, there is an ionization source, where the molecule is given
+ a positive electrical charge, either by removing an electron or by
+ adding a proton.
+
+ 2\) Depending on the ionization method used, the ionized molecule may
+ or may not break apart into a population of smaller fragments
+
+ 3\) Next in line there is a mass analyzer, where the
+ positively-charged fragments are separated according to mass.
+
+ 4\) Finally, there is a detector, which detects and quantifies the
+ separated ions.
 
 One of the more common types of MS techniques used in the organic
 laboratory is **electron ionization** (EIMS). Although biomolecules are
@@ -897,8 +897,8 @@ light with wavelength of 470 nm, the λ<sub>max</sub> of β-carotene?
 absorb at a longer wavelength in the UV region of the electromagnetic
 spectrum? Explain your answer.
 
-> <img src="media/image394.png"
-> style="width:2.35208in;height:1.19444in" />
+ <img src="media/image394.png"
+ style="width:2.35208in;height:1.19444in" />
 
 fig19a
 

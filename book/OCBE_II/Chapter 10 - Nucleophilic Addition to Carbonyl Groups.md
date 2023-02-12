@@ -547,21 +547,21 @@ style="width:4.68542in;height:2.51875in" />
 
 fig 18
 
-> Step A (Activation phase): This phase of the reaction varies according
-> to the particular case, but always involves phosphate group transfer
-> steps that are familiar from chapter 9. What is most important for our
-> present discussion, however, is simply that the hydroxyl group on the
-> hemiacetal has been activated - ie. made into a good leaving group -
-> by phosphorylation.
->
-> Step 1: Now that the leaving group has been activated, it does its job
-> and leaves, resulting in a resonance stabilized carbocation.
->
-> Step 2: A nucleophilic alcohol on the growing cellulose chain attacks
-> the highly electrophilic carbocation to form an acetal. Here is where
-> the stereochemistry of the new glycosidic bond is determined:
-> depending on the reaction, the alcohol nucleophile could approach from
-> either side of the planar carbocation.
+ Step A (Activation phase): This phase of the reaction varies according
+ to the particular case, but always involves phosphate group transfer
+ steps that are familiar from chapter 9. What is most important for our
+ present discussion, however, is simply that the hydroxyl group on the
+ hemiacetal has been activated - ie. made into a good leaving group -
+ by phosphorylation.
+
+ Step 1: Now that the leaving group has been activated, it does its job
+ and leaves, resulting in a resonance stabilized carbocation.
+
+ Step 2: A nucleophilic alcohol on the growing cellulose chain attacks
+ the highly electrophilic carbocation to form an acetal. Here is where
+ the stereochemistry of the new glycosidic bond is determined:
+ depending on the reaction, the alcohol nucleophile could approach from
+ either side of the planar carbocation.
 
 To reiterate: it is important to recognize the familiar S<sub>N</sub>1
 mechanistic pattern in play here: in step A, a poor leaving group is

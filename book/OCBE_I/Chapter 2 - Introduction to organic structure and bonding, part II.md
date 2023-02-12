@@ -4,21 +4,21 @@
 
 (Credit: https://www.flickr.com/photos/biodivlibrary/)
 
-> “Towards thee I roll, thou all-destroying but unconquering whale; to
-> the last I grapple with thee; from hell's heart I stab at thee; for
-> hate's sake I spit my last breath at thee. Sink all coffins and all
-> hearses to one common pool! and since neither can be mine, let me then
-> tow to pieces, while still chasing thee, though tied to thee, thou
-> damned whale! THUS, I give up the spear!" The harpoon was darted; the
-> stricken whale flew forward; with igniting velocity the line ran
-> through the grooves;--ran foul. Ahab stooped to clear it; he did clear
-> it; but the flying turn caught him round the neck, and voicelessly as
-> Turkish mutes bowstring their victim, he was shot out of the boat, ere
-> the crew knew he was gone. Next instant, the heavy eye-splice in the
-> rope's final end flew out of the stark-empty tub, knocked down an
-> oarsman, and smiting the sea, disappeared in its depths.
->
-> (Herman Melville, *Moby Dick*)
+ “Towards thee I roll, thou all-destroying but unconquering whale; to
+ the last I grapple with thee; from hell's heart I stab at thee; for
+ hate's sake I spit my last breath at thee. Sink all coffins and all
+ hearses to one common pool! and since neither can be mine, let me then
+ tow to pieces, while still chasing thee, though tied to thee, thou
+ damned whale! THUS, I give up the spear!" The harpoon was darted; the
+ stricken whale flew forward; with igniting velocity the line ran
+ through the grooves;--ran foul. Ahab stooped to clear it; he did clear
+ it; but the flying turn caught him round the neck, and voicelessly as
+ Turkish mutes bowstring their victim, he was shot out of the boat, ere
+ the crew knew he was gone. Next instant, the heavy eye-splice in the
+ rope's final end flew out of the stark-empty tub, knocked down an
+ oarsman, and smiting the sea, disappeared in its depths.
+
+ (Herman Melville, *Moby Dick*)
 
 In the classic 19<sup>th</sup> century novel 'Moby Dick', Herman
 Melville's Captain Ahab obsessively hunts down the enormous albino sperm
@@ -342,7 +342,7 @@ model.)
 
 <img src="media/image97.png" style="width:3.55556in;height:1.58333in" />
 
-> fig 61a
+ fig 61a
 
 <u>Exercise 2.2</u>: What kind of orbitals overlap to form the C-Cl
 bonds in chloroform, CHCl<sub>3</sub>?
@@ -528,7 +528,7 @@ is drawn?
 <img src="media/image109.png"
 style="width:1.77778in;height:0.97222in" />
 
-> fig 71c
+ fig 71c
 
 A similar picture can be drawn for the bonding in carbonyl groups, such
 as formaldehyde. In this molecule, the carbon is
@@ -671,7 +671,7 @@ bond 'a'.
 b\) In what kind of orbital is the lone pair of electrons located on the
 nitrogen atom of bond a? Of bond e?
 
-> <img src="media/image117.png" style="width:6in;height:3.2392in" />
+ <img src="media/image117.png" style="width:6in;height:3.2392in" />
 
 [Video tutorial: hybrid orbital
 practice](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review/hybrid-orbitals-jay/v/organic-hybridization-practice)
@@ -901,8 +901,8 @@ in the structures below. For each conjugated π system, specify the
 number of overlapping *p* orbitals, and how many π electrons are shared
 among them.
 
-> <img src="media/image127.png"
-> style="width:4.27778in;height:0.77778in" />
+ <img src="media/image127.png"
+ style="width:4.27778in;height:0.77778in" />
 
 fig 6
 
@@ -912,7 +912,7 @@ contained in the conjugated system?
 
 <img src="media/image128.png" style="width:6in;height:0.91037in" />
 
-> fig 6a
+ fig 6a
 
 ### 2.2C: Aromaticity
 
@@ -1329,31 +1329,31 @@ sense as long as you keep in mind that resonance contributors are merely
 a human-invented convention for depicting the delocalization of π
 electrons in conjugated systems.
 
-> **Rules for drawing resonance structures:**
->
-> 1\) When you see two different resonance contributors, you are *not*
-> seeing a chemical reaction! Rather, you are seeing the exact same
-> molecule or ion depicted in two different ways.
->
-> 2\) Resonance contributors involve the ‘imaginary movement’ of
-> π-bonded electrons or of lone-pair electrons that are adjacent to
-> (*i.e*. conjugated to) π bonds. You can *never* shift the location of
-> electrons in σ bonds – if you show a σ bond forming or breaking, you
-> are showing a chemical reaction taking place (see rule \#1). Likewise,
-> the positions of *atoms* in the molecule cannot change between two
-> resonance contributors.
->
-> 3\) All resonance contributors for a molecule or ion must have the
-> same *net* charge.
->
-> 4\) All resonance contributors must be drawn as proper Lewis
-> structures, with correct formal charges. Never show curved 'electron
-> movement' arrows that would lead to a situation where a second-row
-> element (ie. carbon, nitrogen, or oxygen) has more than eight
-> electrons: this would break the 'octet rule'. Sometimes, however, we
-> will draw resonance contributors in which a carbon atom has only six
-> electrons (ie. a carbocation). In general, all oxygen and nitrogen
-> atoms should have a complete octet of valence electrons.
+ **Rules for drawing resonance structures:**
+
+ 1\) When you see two different resonance contributors, you are *not*
+ seeing a chemical reaction! Rather, you are seeing the exact same
+ molecule or ion depicted in two different ways.
+
+ 2\) Resonance contributors involve the ‘imaginary movement’ of
+ π-bonded electrons or of lone-pair electrons that are adjacent to
+ (*i.e*. conjugated to) π bonds. You can *never* shift the location of
+ electrons in σ bonds – if you show a σ bond forming or breaking, you
+ are showing a chemical reaction taking place (see rule \#1). Likewise,
+ the positions of *atoms* in the molecule cannot change between two
+ resonance contributors.
+
+ 3\) All resonance contributors for a molecule or ion must have the
+ same *net* charge.
+
+ 4\) All resonance contributors must be drawn as proper Lewis
+ structures, with correct formal charges. Never show curved 'electron
+ movement' arrows that would lead to a situation where a second-row
+ element (ie. carbon, nitrogen, or oxygen) has more than eight
+ electrons: this would break the 'octet rule'. Sometimes, however, we
+ will draw resonance contributors in which a carbon atom has only six
+ electrons (ie. a carbocation). In general, all oxygen and nitrogen
+ atoms should have a complete octet of valence electrons.
 
 To expand a bit on rule \#4, there are really only three things we can
 do with curved arrows when drawing resonance structures. First, we can
@@ -1437,25 +1437,25 @@ to learn in order to evaluate the relative importance of different
 resonance contributors. We will number them 5-8 so that they may be
 added to in the 'rules for resonance' list from section 2.2C.
 
-> **Rules for determining major and minor resonance contributors:**
->
-> 5\) The carbon in contributor C does not have an octet – in general,
-> resonance contributors in which a carbon does not fulfill the octet
-> rule are relatively less important.
->
-> 6\) In structure C, a separation of charge has been introduced that is
-> not present in A or B. In general, resonance contributors in which
-> there is a greater separation of charge are relatively less important.
->
-> 7\) In structure C, there are only three bonds, compared to four in A
-> and B. In general, a resonance structure with a lower number of total
-> bonds is relatively less important.
->
-> 8\) The resonance contributor in which a negative formal charge is
-> located on a more electronegative atom, usually oxygen or nitrogen, is
-> more stable than one in which the negative charge is located on a less
-> electronegative atom such as carbon. *An example is in the upper left
-> expression in the next figure.*
+ **Rules for determining major and minor resonance contributors:**
+
+ 5\) The carbon in contributor C does not have an octet – in general,
+ resonance contributors in which a carbon does not fulfill the octet
+ rule are relatively less important.
+
+ 6\) In structure C, a separation of charge has been introduced that is
+ not present in A or B. In general, resonance contributors in which
+ there is a greater separation of charge are relatively less important.
+
+ 7\) In structure C, there are only three bonds, compared to four in A
+ and B. In general, a resonance structure with a lower number of total
+ bonds is relatively less important.
+
+ 8\) The resonance contributor in which a negative formal charge is
+ located on a more electronegative atom, usually oxygen or nitrogen, is
+ more stable than one in which the negative charge is located on a less
+ electronegative atom such as carbon. *An example is in the upper left
+ expression in the next figure.*
 
 Below are some additional examples of major and minor resonance
 contributors:
@@ -1874,10 +1874,10 @@ being both a hydrogen bond donor and acceptor, B) capable of being a
 hydrogen bond acceptor, but not a donor, or C) not capable of
 participating in hydrogen bonding.
 
-> <img src="media/image180.png"
-> style="width:5.18542in;height:1.63889in" />
->
-> fig 30A
+ <img src="media/image180.png"
+ style="width:5.18542in;height:1.63889in" />
+
+ fig 30A
 
 <u>Exercise 2.29</u>: Draw figures that show the hydrogen bonds
 described below.

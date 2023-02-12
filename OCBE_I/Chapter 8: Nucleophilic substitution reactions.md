@@ -1553,34 +1553,34 @@ Understand that – with the exception of the vertical periodic trend in
 protic solvents – *in most cases anything that makes something a
 stronger base also makes it a more powerful nucleophile:*
 
-> The horizontal periodic trend in nucleophilicity: for example,
-> NH<sub>3</sub> is a better nucleophile than H<sub>2</sub>O.
->
-> The vertical periodic trend in nucleophilicity *for reactions in polar
-> aprotic solvents*: chloride ion is a better nucleophile than bromide
-> ion in acetone solvent.
->
-> Protonation state: for example, hydroxide ion is a better nucleophile
-> than water.
->
-> Inductive effect: electron-withdrawing groups decrease nucleophilicity
->
-> Resonance effects:
->
-> Delocalization of negative charge/electron density decreases
-> nucleophilicity. For example, methoxide ion
-> (CH<sub>3</sub>O<sup>-</sup>) is a stronger nucleophile than acetate
-> ion.
+ The horizontal periodic trend in nucleophilicity: for example,
+ NH<sub>3</sub> is a better nucleophile than H<sub>2</sub>O.
+
+ The vertical periodic trend in nucleophilicity *for reactions in polar
+ aprotic solvents*: chloride ion is a better nucleophile than bromide
+ ion in acetone solvent.
+
+ Protonation state: for example, hydroxide ion is a better nucleophile
+ than water.
+
+ Inductive effect: electron-withdrawing groups decrease nucleophilicity
+
+ Resonance effects:
+
+ Delocalization of negative charge/electron density decreases
+ nucleophilicity. For example, methoxide ion
+ (CH<sub>3</sub>O<sup>-</sup>) is a stronger nucleophile than acetate
+ ion.
 
 In addition:
 
-> Steric effects: less sterically hindered nucleophiles are more
-> powerful. For example, ethanol is less hindered and more nucleophilic
-> than *tert*-butyl alcohol.
->
-> The vertical periodic trend *in protic solvent* (water or alcohol) is
-> opposite the trend in basicity: for example, thiols are more
-> nucleophilic than alcohols.
+ Steric effects: less sterically hindered nucleophiles are more
+ powerful. For example, ethanol is less hindered and more nucleophilic
+ than *tert*-butyl alcohol.
+
+ The vertical periodic trend *in protic solvent* (water or alcohol) is
+ opposite the trend in basicity: for example, thiols are more
+ nucleophilic than alcohols.
 
 <u>Electrophiles</u>
 
@@ -1629,12 +1629,12 @@ Be able to predict whether a given substitution reaction is likely to
 proceed by S<sub>N</sub>2 or S<sub>N</sub>1 mechanisms, based on the
 identity of the nucleophile, the electrophile, and the solvent.
 
-> S<sub>N</sub>2 reactions involve strong nucleophiles and unhindered
-> electophiles, and are accelerated by the use of polar, aprotic
-> solvents.
->
-> SN1 reactions involve weaker nucleophiles relatively stable
-> carbocations, and are accelerated by protic solvents.
+ S<sub>N</sub>2 reactions involve strong nucleophiles and unhindered
+ electophiles, and are accelerated by the use of polar, aprotic
+ solvents.
+
+ SN1 reactions involve weaker nucleophiles relatively stable
+ carbocations, and are accelerated by protic solvents.
 
 Given a nucleophile and electrophile, be able to predict the product(s)
 of a nonenzymatic substitution reaction, and predict a mechanisms

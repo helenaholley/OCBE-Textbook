@@ -497,8 +497,8 @@ two fatty acyl-thioester substrates. R<sub>1</sub> and R<sub>2</sub> can
 be hydrocarbon chains of various lengths. (*J. Biol. Chem*. **2011**,
 *286*, 10930.)
 
-> <img src="media/image374.png"
-> style="width:4.49097in;height:0.99097in" />
+ <img src="media/image374.png"
+ style="width:4.49097in;height:0.99097in" />
 
 fig 34a
 

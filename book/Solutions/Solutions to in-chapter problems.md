@@ -174,22 +174,22 @@ fig 4
 
 a\)
 
-> bond b: N*sp*<sup>2</sup>-C*sp*<sup>3</sup> (this means an overlap of
-> an *sp*<sup>2</sup> orbital on N and an *sp*<sup>3</sup> orbital on C)
->
-> bond c: C*sp*<sup>2</sup>-C*sp*<sup>2</sup> plus C2*p*-C2*p* (π)
->
-> bond d: C*sp*<sup>2</sup>-C*sp*<sup>3</sup>
->
-> bond e: C*sp*<sup>3</sup>-C*sp*<sup>3</sup>
->
-> bond f: C*sp*<sup>3</sup>-C*sp*<sup>3</sup>
->
-> bond g: C*sp*<sup>2</sup>-C*sp*<sup>2</sup> (σ) plus C2*p*-C2*p* (π)
->
-> bond h: C*sp*<sup>2</sup>-H1*s*
->
-> bond i: C*sp*<sup>2</sup>-C*sp*<sup>2</sup>
+ bond b: N*sp*<sup>2</sup>-C*sp*<sup>3</sup> (this means an overlap of
+ an *sp*<sup>2</sup> orbital on N and an *sp*<sup>3</sup> orbital on C)
+
+ bond c: C*sp*<sup>2</sup>-C*sp*<sup>2</sup> plus C2*p*-C2*p* (π)
+
+ bond d: C*sp*<sup>2</sup>-C*sp*<sup>3</sup>
+
+ bond e: C*sp*<sup>3</sup>-C*sp*<sup>3</sup>
+
+ bond f: C*sp*<sup>3</sup>-C*sp*<sup>3</sup>
+
+ bond g: C*sp*<sup>2</sup>-C*sp*<sup>2</sup> (σ) plus C2*p*-C2*p* (π)
+
+ bond h: C*sp*<sup>2</sup>-H1*s*
+
+ bond i: C*sp*<sup>2</sup>-C*sp*<sup>2</sup>
 
 b\)
 
@@ -216,11 +216,11 @@ pyridine-like (lone pair in *sp*<sup>2</sup> orbital); N<sub>9</sub> is
 
 **E2.12**:
 
-> <img src="media/ICE_solutions/image20.png" style="width:3.27778in;height:1.22222in" />
->
-> <img src="media/ICE_solutions/image21.png" style="width:4.55556in;height:1.27778in" />
->
-> <img src="media/ICE_solutions/image22.png" style="width:3.30556in;height:1.34236in" />
+ <img src="media/ICE_solutions/image20.png" style="width:3.27778in;height:1.22222in" />
+
+ <img src="media/ICE_solutions/image21.png" style="width:4.55556in;height:1.27778in" />
+
+ <img src="media/ICE_solutions/image22.png" style="width:3.30556in;height:1.34236in" />
 
 **E2.13:**
 
@@ -328,9 +328,9 @@ This contributor is major because there are no formal charges.
 
 a\)
 
-> <img src="media/ICE_solutions/image34.png" style="width:3.88889in;height:1.5in" />
->
-> fig 3
+ <img src="media/ICE_solutions/image34.png" style="width:3.88889in;height:1.5in" />
+
+ fig 3
 
 b\) The conjugated π system in this carbocation is composed of
 **<u>seven</u>** *p* orbitals containing **<u>six</u>** delocalized π
@@ -338,14 +338,14 @@ electrons.
 
 **E2.24:**
 
-> <img src="media/ICE_solutions/image35.png" style="width:4.02778in;height:0.61111in" />
->
-> <img src="media/ICE_solutions/image36.png" style="width:3.92569in;height:1.08333in" />
->
-> fig 3
->
-> c\) The conjugated π system in structure a) is composed of **seven** p
-> orbitals containing **eight** delocalized π electrons.
+ <img src="media/ICE_solutions/image35.png" style="width:4.02778in;height:0.61111in" />
+
+ <img src="media/ICE_solutions/image36.png" style="width:3.92569in;height:1.08333in" />
+
+ fig 3
+
+ c\) The conjugated π system in structure a) is composed of **seven** p
+ orbitals containing **eight** delocalized π electrons.
 
 **E2.25**: The two major contributors or those in which the negative
 formal charge is located on an oxygen rather than on a carbon.

@@ -440,7 +440,7 @@ show the location of the positive and negative formal charges.
 charges in the structures below. Assume that all atoms have a complete
 valence shell of electrons. Net charges are shown outside the brackets.
 
-> <img src="media/image11.png" style="width:5.46319in;height:2.35208in" />
+ <img src="media/image11.png" style="width:5.46319in;height:2.35208in" />
 
 fig 3a
 
@@ -1000,7 +1000,7 @@ plus a few more that will be introduced later in the text.
 alkanes) in the following organic compounds. State whether alcohols and
 amines are primary, secondary, or tertiary.
 
-> <img src="media/image46.png" style="width:4.84444in;height:3.17778in" />
+ <img src="media/image46.png" style="width:4.84444in;height:3.17778in" />
 
 fig 34
 
@@ -1011,17 +1011,17 @@ octets (phosphorus may exceed the octet rule). There are many possible
 correct answers for these, so be sure to check your structures with your
 instructor or tutor.
 
-> a\) a compound with molecular formula C<sub>6</sub>H<sub>11</sub>NO
-> that includes alkene, secondary amine, and primary alcohol functional
-> groups
->
-> b\) an ion with molecular formula
-> C<sub>3</sub>H<sub>5</sub>O<sub>6</sub>P <sup>2-</sup> that includes
-> aldehyde, secondary alcohol, and phosphate functional groups.
->
-> c\) A compound with molecular formula C<sub>6</sub>H<sub>9</sub>NO
-> that has an amide functional group, and does *not* have an alkene
-> group.
+ a\) a compound with molecular formula C<sub>6</sub>H<sub>11</sub>NO
+ that includes alkene, secondary amine, and primary alcohol functional
+ groups
+
+ b\) an ion with molecular formula
+ C<sub>3</sub>H<sub>5</sub>O<sub>6</sub>P <sup>2-</sup> that includes
+ aldehyde, secondary alcohol, and phosphate functional groups.
+
+ c\) A compound with molecular formula C<sub>6</sub>H<sub>9</sub>NO
+ that has an amide functional group, and does *not* have an alkene
+ group.
 
 [Video tutorial on functional
 groups](https://www.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/functional-groups/v/functional-groups-first)

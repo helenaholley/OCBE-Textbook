@@ -1539,8 +1539,8 @@ style="width:5.71319in;height:1.59236in" />
 
 **P14.7:**
 
-> <img src="media/EOC_solutions/image136.png"
-> style="width:5.16667in;height:2.08333in" />
+ <img src="media/EOC_solutions/image136.png"
+ style="width:5.16667in;height:2.08333in" />
 
 **  
 **

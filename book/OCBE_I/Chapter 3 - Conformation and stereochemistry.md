@@ -540,12 +540,12 @@ or tutor.
 hexanes has a greater energy difference between its two chair
 conformations, and state your reasons for your choices.
 
-> a\) *cis*-1,3-dimethylcyclohexane or *cis*-1,4-dimethylcyclohexane
->
-> b\) *cis*-1,2-dimethylcyclohexane or *trans*-1,2-dimethylcyclohexane
->
-> c\) *trans*-1,2-dimethylcyclohexane or
-> *trans*-1-isopropyl-2-methylcyclohexane
+ a\) *cis*-1,3-dimethylcyclohexane or *cis*-1,4-dimethylcyclohexane
+
+ b\) *cis*-1,2-dimethylcyclohexane or *trans*-1,2-dimethylcyclohexane
+
+ c\) *trans*-1,2-dimethylcyclohexane or
+ *trans*-1-isopropyl-2-methylcyclohexane
 
 <u>Exercise 3.6</u>: Can a 'ring inversion' change a *cis*-disubstituted
 cyclohexane to *trans*? Explain.
@@ -577,8 +577,8 @@ sugar mannose, being sure to clearly show each non-hydrogen substituent
 as axial or equatorial. Predict which conformation is likely to be more
 stable, and explain why.
 
-> <img src="media/image259.png"
-> style="width:1.21111in;height:1.38889in" />
+ <img src="media/image259.png"
+ style="width:1.21111in;height:1.38889in" />
 
 fig 26
 
@@ -866,7 +866,7 @@ style="width:1.81111in;height:0.47778in" />
 <u>Exercise 3.10</u>: Label the molecules below as chiral or achiral,
 and locate all chiral centers.
 
-> <img src="media/image276.png" style="width:5.47778in;height:3.2in" />
+ <img src="media/image276.png" style="width:5.47778in;height:3.2in" />
 
 fig 43
 
@@ -1031,7 +1031,7 @@ style="width:4.61111in;height:1.43333in" />
 <u>Exercise 3.12</u>: Should the (*R*) enantiomer of malate have a solid
 or dashed wedge for the C-O bond in the figure below?
 
-> <img src="media/image282.png" style="width:2in;height:1.6in" />
+ <img src="media/image282.png" style="width:2in;height:1.6in" />
 
 fig 46
 
@@ -2027,8 +2027,8 @@ prochiral groups in the amino acid leucine. (*Hint*: there are two pairs
 of prochiral groups!). Are these prochiral groups diastereotopic or
 enantiotopic?
 
-> <img src="media/image347.png"
-> style="width:0.91667in;height:1.13889in" />
+ <img src="media/image347.png"
+ style="width:0.91667in;height:1.13889in" />
 
 fig 82a
 
@@ -2154,38 +2154,38 @@ alkene are asymmetric, and which can therefore be labeled *E* or *Z*.
 **Stereoisomers** have the same molecular formula and same connectivity,
 but a different orientation of atoms in space.
 
-> **Enantiomers** are stereoisomers which are mirror images.
->
-> In practice, the enantiomer of a compound is the one in which
-> ***all*** chiral centers are in the opposite configuration.
->
-> Every chiral molecule has one and only one enantiomer.
->
-> Achiral molecules are superimposable on their mirror image, and thus
-> cannot have an enantiomer.
->
-> Enantiomers have equal but opposite specific rotations, but identical
-> physical properties otherwise.
->
-> **Diastereomers** are stereoisomers which are *not* mirror images.
-> They have different physical properties.
->
-> In practice, a diastereomer of a chiral molecule with have ***at least
-> one, but not all*** chiral centers in the opposite configuration.
->
-> Alternatively, two diastereomers may contain a stereogenic alkene with
-> the opposite *E/Z* configuration.
->
-> A molecule has 2<sup>n</sup>-2 diastereomers, where *n* is the number
-> of chiral centers plus stereogenic alkene groups. *Meso* compounds are
-> an exception to this rule.
+ **Enantiomers** are stereoisomers which are mirror images.
+
+ In practice, the enantiomer of a compound is the one in which
+ ***all*** chiral centers are in the opposite configuration.
+
+ Every chiral molecule has one and only one enantiomer.
+
+ Achiral molecules are superimposable on their mirror image, and thus
+ cannot have an enantiomer.
+
+ Enantiomers have equal but opposite specific rotations, but identical
+ physical properties otherwise.
+
+ **Diastereomers** are stereoisomers which are *not* mirror images.
+ They have different physical properties.
+
+ In practice, a diastereomer of a chiral molecule with have ***at least
+ one, but not all*** chiral centers in the opposite configuration.
+
+ Alternatively, two diastereomers may contain a stereogenic alkene with
+ the opposite *E/Z* configuration.
+
+ A molecule has 2<sup>n</sup>-2 diastereomers, where *n* is the number
+ of chiral centers plus stereogenic alkene groups. *Meso* compounds are
+ an exception to this rule.
 
 **Epimers** are diastereomers which differ at only one chiral center.
 
 A **racemic mixture** is a 50:50 mixture of two enantiomers.
 
-> A ***meso* compound** has multiple chiral centers but, because it has
-> a plane of symmetry, is achiral.
+ A ***meso* compound** has multiple chiral centers but, because it has
+ a plane of symmetry, is achiral.
 
 You should know how to assign **R/S and E/Z configuration** to chiral
 centers and stereogenic alkenes, respectively.

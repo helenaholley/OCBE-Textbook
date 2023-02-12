@@ -24,8 +24,8 @@ It all started when the American National Aeronautics and Space
 Administration (NASA) released the following statement to the news
 media:
 
-> “NASA will hold a news conference at 2 p.m. EST on Thursday, Dec. 2,
-> to
+ “NASA will hold a news conference at 2 p.m. EST on Thursday, Dec. 2,
+ to
 
 discuss an astrobiology finding that will impact the search for evidence
 of
@@ -138,7 +138,7 @@ planet.
 
 Youtube video of the NASA press conference:
 
-> http://www.youtube.com/watch?v=WVuhBt03z8g.
+ http://www.youtube.com/watch?v=WVuhBt03z8g.
 
 Wolfe-Simon, F. et al. *Science Express*, Dec 2, 2010. The first preview
 article on the proposed 'arsenic bacteria'.
@@ -568,8 +568,8 @@ indicated in a phosphate transfer transition state. O<sub>a</sub> refers
 to an oxygen at the apical position, and O<sub>e</sub> to an oxygen in
 the equatorial position.
 
-> a\) O<sub>a</sub>-P-O<sub>a</sub> b) O<sub>a</sub>-P-O<sub>e</sub>
-> c)O<sub>e</sub>-P-O<sub>e</sub>
+ a\) O<sub>a</sub>-P-O<sub>a</sub> b) O<sub>a</sub>-P-O<sub>e</sub>
+ c)O<sub>e</sub>-P-O<sub>e</sub>
 
 ##  9.3: ATP, the principal phosphate donor
 
