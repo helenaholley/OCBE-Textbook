@@ -58,7 +58,7 @@ called cellobiose), which are then fermented by the yeast.
 
 <img src="media/image88.png" style="width:2.65764in;height:2.65764in" />
 
-fig1b
+fig 1b
 
 The rest of the corn plant – the stalks, leaves, and cobs – is composed
 in large part of another glucose polymer called cellulose.
@@ -138,7 +138,7 @@ the neighboring atoms is a hydrogen.
 
 <img src="media/image90.png" style="width:1.51875in;height:0.85208in" />
 
-fig1d
+fig 1d
 
 You probably are familiar with the examples shown below: acetone, the
 simplest ketone compound, is the solvent in nail polish remover,
