@@ -124,7 +124,7 @@ The traditional venue for debate, while quite a bit slower than the
 blogosphere, did eventually come through. When the full paper was
 published in Science a few months later, it was accompanied by eight
 'technical comments' from other researchers pointing out deficiencies in
-the study, an 'editors note', and a broader news article about the
+the study, an 'editor's note', and a broader news article about the
 controversy. In July of 2012, a paper was published in Science under the
 title “GFAJ-1 Is an Arsenate-Resistant, Phosphate-Dependent Organism”.
 The paper reported definitive evidence that DNA from GFAJ-1, under the
